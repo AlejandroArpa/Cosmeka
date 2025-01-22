@@ -1,0 +1,107 @@
+:root {--primary: #c91f28;--progress-bar-color: #c91f28; }.bg_color_white-cream{background-color: #ffffff;background: -webkit-linear-gradient(#ffffff 50%, #000000 50%);background: -o-linear-gradient(#ffffff 50%, #000000 50%);background: -moz-linear-gradient(#ffffff 50%, #000000 50%);background: linear-gradient(#ffffff 50%, #000000 50%);}.bg_color_pink-clay{background-color: #fcc6de;background: -webkit-linear-gradient(#fcc6de 50%, #aa8a6c 50%);background: -o-linear-gradient(#fcc6de 50%, #aa8a6c 50%);background: -moz-linear-gradient(#fcc6de 50%, #aa8a6c 50%);background: linear-gradient(#fcc6de 50%, #aa8a6c 50%);}.lb_menu_hot{background-color: #c91f28;color: #fff }
+
+
+/* Theme custom css */
+.empty_cart_page .button, .nt_mini_cart .empty .button {
+    min-width: 210px !important;
+    text-transform: uppercase;
+}
+
+a.button.button_secondary.js_add_ld:hover {
+    background: #c7bce8;
+    border-color: #c7bce8;
+}
+
+.wa-splmn-chat-btn-offset {
+    bottom: 136px !important;
+    right: 36px !important;
+}
+
+.brand_item a img {
+    border-radius: 6px;
+}
+
+form.h_search_frm {
+    border-radius: 6px !important;
+}
+
+button.h_search_btn {
+    border-radius: 6px !important;
+}
+
+h2.section-title {
+    font-family: "Jost", sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.wrap_title .tt_divider i {
+    color: #c7bce8 !important;
+}
+
+.nt_pr h3.product-title {
+    min-height: 60px !important;
+}
+
+.product-image {
+    min-height: 300px; 
+    max-height: 300px;
+}
+
+/* Custom shopify slide */
+
+.slider {
+    height: 200px;
+    margin: auto;
+    position: relative;
+    width: 90%;
+    display: grid;
+    place-items: center;
+}
+
+.slide-track {
+	display: flex;
+	width: calc(250px * 18);
+	animation: scroll 40s linear infinite;
+}
+
+@keyframes scroll {
+	0% {
+		transform: translateX(0);
+	}
+	100% {
+		transform: translateX(calc(-250px * 9));
+	}
+}
+
+.slide {
+	height: 200px;
+	width: 250px;
+	display: flex;
+	align-items: center;
+	padding: 15px;
+}
+
+.slide img {
+	width: 100%;
+}
+
+/* Zoom scale */
+
+.product-single__image-wrapper:hover .product-single__image {
+  transform: scale(1.05);
+}
+
+/* End custom slide shopify */
+
+
+/* Suscripción footer */
+
+.signup-newsletter-form .col_email input {
+    color: #fff !important;
+}
+
+.signup-newsletter-form button.submit-btn {
+    border-radius: 50%;
+    background-color: #000 !important;
+}

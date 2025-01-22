@@ -1,0 +1,4203 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "current": {
+    "general_layout": "full_width",
+    "cus_w_bd": 1170,
+    "body_bg": "#fff",
+    "body_bg_image": "",
+    "body_bg_repeat": "default",
+    "body_bg_size": "default",
+    "body_bg_attachment": "default",
+    "body_bg_position": "default",
+    "home_keywords": "COSMEKA reúne las mejores marcas de cosmética coreana para el cuidado facial. Encuentra aquí los mejores productos para tu rutina skin care.\n¡A tan solo un clic tus productos favoritos!, Envíos a todo Colombia.",
+    "shop_author": "Cosmeka",
+    "global_acc": "",
+    "use_rtl": false,
+    "backtop": "3",
+    "backtop_des": "1",
+    "prevent_copying": false,
+    "falling_snow": false,
+    "catalog_mode": false,
+    "enable_toolbar": true,
+    "enable_new_pp": false,
+    "enable_pro_pr_pp": true,
+    "enable_ck_pp": false,
+    "enable_age_pp": false,
+    "enable_salse_pp": false,
+    "enable_salse_pp_mb": false,
+    "platform_email": "4",
+    "klaviyo_list_id": "",
+    "ajax_klaviyo": true,
+    "action_mailchimp": "",
+    "ajax_mailChimp": false,
+    "checkbox_mail": false,
+    "link_mail": "",
+    "enable_growave": false,
+    "enable_infiniteoptions": true,
+    "wishlist_type": "1",
+    "app_review": "6",
+    "label_settings": "rounded",
+    "use_sale_label": true,
+    "label_sale_style": "2",
+    "use_sold_out_label": true,
+    "use_new_label": true,
+    "new_day_added": 10,
+    "c_1": "",
+    "c_2": "",
+    "c_3": "",
+    "c_4": "",
+    "enable_meta": true,
+    "enable_tag": true,
+    "filter_price_list": "$7-$50, $50-$150, $150-$500",
+    "logo_svg": "COSMEKA_HEADER.svg",
+    "logo": "shopify://shop_images/Sin_titulo-3-09.png",
+    "logo_width": 290,
+    "logos": "shopify://shop_images/Sin_titulo-3-09.png",
+    "logos_retina": "shopify://shop_images/Sin_titulo-3-09.png",
+    "logos_width": 290,
+    "logo_mb": "shopify://shop_images/Sin_titulo-3-09.png",
+    "logo_mb_retina": "shopify://shop_images/Sin_titulo-3-09.png",
+    "logo_mb_width": 240,
+    "logo_tr_svg": "",
+    "logo_tr": "",
+    "logo_tr_retina": "",
+    "logo_tr_width": 100,
+    "h_banner": true,
+    "h_topbar": true,
+    "full_header": true,
+    "sticky_header": true,
+    "scroll_header": false,
+    "header_design": "8",
+    "h_transparent": false,
+    "h_tr_top": true,
+    "h_navmb": 74,
+    "mb_cat": true,
+    "only_icon": true,
+    "first_cat": true,
+    "h__bgimg": "",
+    "bgnav": "#ffffff",
+    "opnav": 100,
+    "clnav": "#222222",
+    "bgnavst": "#ffffff",
+    "opnavst": 100,
+    "clnavst": "#222222",
+    "bgnavtr": "#000000",
+    "opnavtr": 40,
+    "clnavtr": "#ffffff",
+    "h_icon": "iccl",
+    "show_search": true,
+    "show_wis": true,
+    "show_acc": true,
+    "cart_des": "4",
+    "bg_hc": "#c7bce8",
+    "cl_hc": "#ffffff",
+    "btnt4_style": "1",
+    "cl_bd_text": "#4b4b4b",
+    "color_primary": "#000000",
+    "cl_hd": "#222222",
+    "cl_se_tt": "#222222",
+    "cl_se_subtt": "#222222",
+    "ld_bar": "#2e2d4d",
+    "cl_sale": "#c7bce8",
+    "cl_new": "#c9f778",
+    "cl_sold_out": "#2e2d4d",
+    "clpr_tt": "#445069",
+    "clpr_price": "#dd5577",
+    "clpr_price_sale": "#dd5577",
+    "clpr_price_goc": "#706e6e",
+    "atw_btn": "#c7bce8",
+    "bgqv_btn": "#dd5577",
+    "qv_btn": "#ffffff",
+    "bgqv_btn_hover": "#d52b55",
+    "qv_btn_hover": "#ffffff",
+    "bgatc_btn": "#dd5577",
+    "atc_btn": "#ffffff",
+    "bgatc_btn_hover": "#d52b55",
+    "atc_btn_hover": "#fff",
+    "bgatc_pg": "#dd5577",
+    "atc_pg": "#ffffff",
+    "bgatc_pg_hover": "#d52b55",
+    "atc_pg_hover": "#fff",
+    "bgck_btn": "#dd5577",
+    "ck_btn": "#fff",
+    "bgck_btn_hover": "#d52b55",
+    "ck_btn_hover": "#fff",
+    "cl_tooltip": "#c7bce8",
+    "cl_tooltip_txt": "#fff",
+    "cl_lazyload": "#c7bce8",
+    "bg_lazyload": "#f5f5f5",
+    "use_cus_lz": true,
+    "cus_lz": "shopify://shop_images/Cosmeka.gif",
+    "size_cus_lz": 100,
+    "font_source": "1",
+    "fnt_bd": "jost_n4",
+    "fnt_heading": "neue_haas_unica_n4",
+    "fnt_sub_tt": "questrial_n4",
+    "fnt_bd2": "Jost",
+    "fnt_heading2": "Jost",
+    "fnt_sub_tt2": "Montserrat Medium",
+    "fw_bd": 500,
+    "size_bd_text": 16,
+    "bd_line_height": 1.7,
+    "hd_letter_spacing": 0,
+    "fw_hd": 600,
+    "hd_line_height": 1.4,
+    "fw_nav": 600,
+    "fs_nav": 18.5,
+    "ls_nav": 0,
+    "size_se_tt": 20,
+    "fw_se_tt": 500,
+    "lh_se_tt": 0,
+    "ls_se_tt": 0,
+    "size_se_tt_mb": 22,
+    "fw_se_tt_mb": 500,
+    "lh_se_tt_mb": 0,
+    "ls_se_tt_mb": 0,
+    "size_se_stt": 17,
+    "fw_se_stt": 400,
+    "lh_se_stt": 0,
+    "ls_se_stt": 0,
+    "size_se_stt_mb": 14,
+    "fw_se_stt_mb": 400,
+    "lh_se_stt_mb": 0,
+    "ls_se_stt_mb": 0,
+    "txt_tr_pr": "capitalize",
+    "size_pr": 16,
+    "size_price_pr": 21.5,
+    "fw_pr": 500,
+    "ls_pr": 0.6,
+    "space_pr": 10,
+    "shop_layout": "wide",
+    "shop_design": "default",
+    "cat_des": "2",
+    "shop_sidebar": "left",
+    "shop_size_sidebar": "2",
+    "use_hidden_cat": true,
+    "space_sidebar": 30,
+    "ajax_shop": true,
+    "ajax_scroll_top": false,
+    "show_column_switch": false,
+    "sort_enable": true,
+    "cat_sticky": true,
+    "shop_filters": true,
+    "pop_style": "pop_default",
+    "type_filters": "2",
+    "logic_filter": "2",
+    "auto_hide_out_of_stock": false,
+    "show_hide_out_of_stock": false,
+    "pr_layout": "wide",
+    "design_products": "1",
+    "size_img_pr": "2",
+    "nav_img_pr": "medium",
+    "use_sticky_des": true,
+    "main_click": "zoom",
+    "zoom_tp": "2",
+    "pswp_tp": "light",
+    "show_zoom_img": true,
+    "des_pr_design": "2",
+    "des_pr_layout": "2",
+    "pr_sidebar": "none",
+    "pr_sidebar_full": false,
+    "pr_size_sidebar": "1",
+    "pr_curent": "3",
+    "fbt_pos": "1",
+    "show_first_img": false,
+    "use_vimg": true,
+    "sticky_atc": true,
+    "social_pr": true,
+    "enable_vlooping": true,
+    "use_fimg": false,
+    "color_ck": "",
+    "use_clicking_vimg": true,
+    "enable_his": false,
+    "pr_incoming_mess": true,
+    "date_in": "3",
+    "remove_sold_out": false,
+    "use_notify_me": true,
+    "breadcrumb_pr": true,
+    "back_next_pr": true,
+    "ratio_img_main": "ratio_imgtrue",
+    "img_size_main": "nt_contain",
+    "img_pos_main": "8",
+    "ratio_img_thumb": "ratio_imgtrue",
+    "img_size_thumb": "nt_cover",
+    "img_pos_thumb": "8",
+    "share_source": "1",
+    "use_quickview": true,
+    "use_pr_rating": true,
+    "hide_btns": false,
+    "price_format": "1",
+    "show_pr_img": "2",
+    "hover_img": "2",
+    "pr_overlay": 10,
+    "use_quickshop": true,
+    "use_buy_qs": true,
+    "swatch_design": "1",
+    "style_color": "2",
+    "swatch_style": "1",
+    "swatch_size": "medium",
+    "show_pr_color": true,
+    "show_color_type": "1",
+    "pr_swatch_setting": "1",
+    "swatch_home_size": "small",
+    "swatch_style_settings": "square",
+    "show_pr_size": false,
+    "show_size_type": "1",
+    "size_ck": "",
+    "min_qty": "1",
+    "edit_item": "0",
+    "use_cart_cd": false,
+    "cart_time": 10,
+    "cart_pos": "side",
+    "after_action_atc": "3",
+    "search_pos": "full",
+    "ajax_search": true,
+    "filter_type_search": false,
+    "only_search_prs": true,
+    "unavailable_prs": "last",
+    "prefix": "none",
+    "show_search_suggest": false,
+    "search_prs_suggest": "",
+    "blog_layout": "default",
+    "blog_sidebar": "none",
+    "blog_size_sidebar": "2",
+    "blog_slider": false,
+    "lr_enable": true,
+    "use_privacy_policy": false,
+    "privacy_policy_link": "",
+    "login_side": true,
+    "checkout_url": "",
+    "growave_social_login": true,
+    "free_ship_pr": "envio-gratis",
+    "gift_wrap_pr": "",
+    "link_ship": "",
+    "link_conditions": "",
+    "ship_calc_df_country": "Colombia",
+    "show_locale_selector": false,
+    "lang_pos": "0",
+    "show_multiple_currencies": false,
+    "auto_currency": false,
+    "currency_type": "1",
+    "flag_currency": false,
+    "size_currency": "sm",
+    "currency_pos": "0",
+    "supported_currencies": "EUR - EUR | USD - USD | GBP - GBP| SEK -SEK",
+    "currency_format": "money_format",
+    "round_currency": false,
+    "notify_currency": false,
+    "mess_currency": "All charges are billed in {{ currency }}. While the content of your cart is currently displayed in <span class=\"selected-currency\"></span>, the checkout will use {{ currency }} at the most current exchange rate.",
+    "hover_currency": false,
+    "custom_css": false,
+    "global_css": "",
+    "desktop_css": "",
+    "tablet_mobile_css": "",
+    "tablet_css": "",
+    "mobile_css": "",
+    "custom_js": false,
+    "share_image": "shopify://shop_images/Tony_Moly.png",
+    "share_facebook": true,
+    "share_twitter": false,
+    "share_pinterest": false,
+    "share_tumblr": false,
+    "share_email": true,
+    "share_telegram": false,
+    "share_whatsapp": true,
+    "social_facebook_link": "https://www.facebook.com/cosmeka.co",
+    "social_twitter_link": "",
+    "social_instagram_link": "https://www.instagram.com/cosmeka.co",
+    "social_dribbble_link": "",
+    "social_linkedin_link": "",
+    "social_pinterest_link": "",
+    "social_tumblr_link": "",
+    "social_youtube_link": "https://www.youtube.com/channel/UC975W8nLW1tHU1TWBhyfllA",
+    "social_behance_link": "",
+    "social_soundcloud_link": "",
+    "favicon": "shopify://shop_images/Cosmeka.gif",
+    "favicon_apple": "shopify://shop_images/Cosmeka.gif",
+    "checkout_header_image": "",
+    "checkout_logo_image": "shopify://shop_images/COSMEKA_HEADER.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "large",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#f5f5f5",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#ffecec",
+    "checkout_heading_font": "Helvetica Neue",
+    "checkout_body_font": "Raleway",
+    "checkout_accent_color": "#2e2d4d",
+    "checkout_button_color": "#dd5577",
+    "checkout_error_color": "#e32c2b",
+    "enable_import": true,
+    "use_eq_thumb_height": false,
+    "img_ratio_thumb": "ratio_nt",
+    "use_eq_nav_height": false,
+    "img_ratio_nav": "ratio_nt",
+    "img_size_nav": "nt_cover",
+    "img_pos_nav": "8",
+    "hide_currency": false,
+    "remove_currency": false,
+    "sup_currency": false,
+    "fv_counter": false,
+    "favicon_animation": "pop",
+    "fv_bgcolor": "#56cfe1",
+    "fv_txtcolor": "#ffffff",
+    "enable_pro_pp": false,
+    "operation_days": "Mon:1700-2100,Tue:1700-2100,Wed:1700-2200,Thu:1700-2200,Fri:1700-2300,Sat:1200-2300,Sun:1200-2100",
+    "timezones": "America/Los_Angeles",
+    "sale_cl": "#ec0101",
+    "color_body_text": "#555555",
+    "color_price_sale": "#ec0101",
+    "color_lazyload": "#f5f5f5",
+    "color_secondary": "#1b1919",
+    "color_sale": "#ff4e00",
+    "color_new": "#56cfd9",
+    "color_sold_out": "#999",
+    "color_btn_slider": "#f76b6a",
+    "color_btn_slider_text": "#fff",
+    "color_btn_add": "#f76b6a",
+    "color_btn_add_text": "#fff",
+    "color_btn_qv": "#383838",
+    "color_btn_qv_text": "#fff",
+    "color_btn_vc": "#2d2d2d",
+    "color_btn_vc_text": "#fff",
+    "color_btn_ck": "#f76b6a",
+    "color_btn_ck_text": "#fff",
+    "color_threshold_bar": "#ff4b4b",
+    "color_ship": "#f76b6a",
+    "color_ship_bar": "#95bf47",
+    "color_add_page": "#f76b6a",
+    "color_add_page_text": "#fff",
+    "color_add_sticky": "#f76b6a",
+    "color_add_sticky_text": "#fff",
+    "border_color_tab": "#f76b6a",
+    "color_mbnav": "#f76b6a",
+    "color_mbnav_text": "#fff",
+    "color_vernav": "#f76b6a",
+    "color_vernav_text": "#fff",
+    "color_btn_now": "#000",
+    "color_btn_now_text": "#fff",
+    "color_input_new": "#333333",
+    "color_sign_up": "#f76b6a",
+    "color_sign_up_text": "#fff",
+    "color_backtop": "#f76b6a",
+    "color_backtop_text": "#fff",
+    "color_tooltip": "#383838",
+    "color_tooltip_text": "#fff",
+    "font_body_text": "poppins_n4",
+    "size_body_text": 14.5,
+    "body_line_height": 1.2,
+    "font_heading": "poppins_n4",
+    "titles_line_height": 1.4,
+    "size_heading": 36,
+    "size_text_h1": 28,
+    "size_text_h2": 24,
+    "size_text_h3": 22,
+    "size_text_h4": 18,
+    "size_text_h5": 16,
+    "size_text_h6": 12,
+    "fnt_sub_title": "libre_baskerville_i4",
+    "show_back_next_pr": true,
+    "upsell_cart": "",
+    "show_custom_css": false,
+    "show_custom_js": false,
+    "color_sale_50": "#ff4e00",
+    "show_inline_t4css": true,
+    "sections": {
+      "header_top": {
+        "type": "header_top",
+        "settings": {
+          "height": 20,
+          "fontsize": 12,
+          "cl": "#000000",
+          "cl_a": "#c7bce8",
+          "cl_cr": "#000000",
+          "bg": "#ffffff",
+          "bg_op": 100,
+          "show_border": false,
+          "bd_cl": "#030303",
+          "cl_tr": "#ffffff",
+          "cl_a_tr": "#ffffff",
+          "cl_cr_tr": "#f5f5f5",
+          "bg_tr": "#000000",
+          "bg_op_tr": 20,
+          "show_border_tr": false,
+          "bd_cl_tr": "#706e6e"
+        }
+      },
+      "footer_top": {
+        "type": "footer_top",
+        "blocks": {
+          "1581507819652": {
+            "type": "logo",
+            "settings": {
+              "image": "shopify://shop_images/COSMEKA_HEADER-01.png",
+              "logo_width": 230,
+              "title": "",
+              "content": "",
+              "social_mode": "1",
+              "order": "1",
+              "cl": "15",
+              "cl_tb": "6",
+              "cl_mb": "12"
+            }
+          },
+          "text_wk9kEm": {
+            "type": "text",
+            "settings": {
+              "title": "CONECTARSE",
+              "content": "",
+              "order": "2",
+              "cl": "15",
+              "cl_tb": "6",
+              "cl_mb": "12"
+            }
+          },
+          "text_Rf3Hjj": {
+            "type": "text",
+            "settings": {
+              "title": "CONTACTO",
+              "content": "<p>📍<em> </em>Medellin - Colombia <br/><br/>📧 <a href=\"mailto:info@cosmeka.com\">info@cosmeka.com</a></p><p> 📱<a href=\"https://api.whatsapp.com/send?phone=573158305948\">(+57)3158305948 </a></p>",
+              "order": "3",
+              "cl": "15",
+              "cl_tb": "6",
+              "cl_mb": "12"
+            }
+          },
+          "menu_YzDDRy": {
+            "type": "menu",
+            "settings": {
+              "title": "SERVICIOS",
+              "typetitle": "span",
+              "menu": "servicios",
+              "order": "4",
+              "cl": "15",
+              "cl_tb": "6",
+              "cl_mb": "12"
+            }
+          },
+          "menu_k47paJ": {
+            "type": "menu",
+            "settings": {
+              "title": "INFORMACIÓN",
+              "typetitle": "span",
+              "menu": "informacion",
+              "order": "5",
+              "cl": "15",
+              "cl_tb": "6",
+              "cl_mb": "12"
+            }
+          }
+        },
+        "block_order": [
+          "1581507819652",
+          "text_wk9kEm",
+          "text_Rf3Hjj",
+          "menu_YzDDRy",
+          "menu_k47paJ"
+        ],
+        "settings": {
+          "sticky": false,
+          "accordions": true,
+          "border": true,
+          "bd_cl": "#ffffff",
+          "cl_h": "#e9e9e9",
+          "cl": "#e9e9e9",
+          "cl_a": "#e9e9e9",
+          "cl_ip": "#868686",
+          "bd_ip": "#ffffff",
+          "cl_btn": "#b42bff",
+          "title_wg": "400",
+          "bg": "#202020",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll",
+          "bg_pos": "center center",
+          "cl_overlay": "#202020",
+          "cl_opacity": 100
+        }
+      },
+      "footer_bot": {
+        "type": "footer_bot",
+        "blocks": {
+          "1581507860120": {
+            "type": "copy",
+            "settings": {
+              "text": "Copyright© [year] Todos los derechos reservados COSMEKA."
+            }
+          }
+        },
+        "block_order": [
+          "1581507860120"
+        ],
+        "settings": {
+          "layout": "12",
+          "bg": "#ffffff",
+          "cl": "#222222",
+          "cl_a": "#ffffff"
+        }
+      },
+      "nt_custom_color": {
+        "type": "nt_custom_color",
+        "blocks": {
+          "1581560115613": {
+            "type": "bg_color",
+            "settings": {
+              "title": "White Cream",
+              "color_1_c": "#ffffff",
+              "color_2_c": "#000000",
+              "color_img": true
+            }
+          },
+          "1581560307303": {
+            "type": "bg_color",
+            "settings": {
+              "title": "Pink Clay",
+              "color_1_c": "#c7bce8",
+              "color_2_c": "#c9f778",
+              "color_img": true
+            }
+          },
+          "1596186843841": {
+            "type": "bg_color",
+            "settings": {
+              "title": "Stripe Lines",
+              "color_1_c": "",
+              "color_2_c": "",
+              "color_img": true
+            }
+          },
+          "1596186931972": {
+            "type": "bg_color",
+            "settings": {
+              "title": "Green",
+              "color_1_c": "",
+              "color_2_c": "",
+              "color_img": true
+            }
+          },
+          "1596186951989": {
+            "type": "bg_color",
+            "settings": {
+              "title": "Nude",
+              "color_1_c": "",
+              "color_2_c": "",
+              "color_img": true
+            }
+          },
+          "1596186969659": {
+            "type": "bg_color",
+            "settings": {
+              "title": "Grey",
+              "color_1_c": "",
+              "color_2_c": "",
+              "color_img": true
+            }
+          },
+          "1596186980163": {
+            "type": "bg_color",
+            "settings": {
+              "title": "Dark Blue",
+              "color_1_c": "",
+              "color_2_c": "",
+              "color_img": true
+            }
+          },
+          "1596186995656": {
+            "type": "bg_color",
+            "settings": {
+              "title": "Brown",
+              "color_1_c": "",
+              "color_2_c": "",
+              "color_img": true
+            }
+          }
+        },
+        "block_order": [
+          "1581560115613",
+          "1581560307303",
+          "1596186843841",
+          "1596186931972",
+          "1596186951989",
+          "1596186969659",
+          "1596186980163",
+          "1596186995656"
+        ],
+        "settings": {}
+      },
+      "cart_widget": {
+        "type": "cart_widget",
+        "blocks": {
+          "cart_widget-0": {
+            "type": "price",
+            "settings": {}
+          },
+          "cart_widget-1": {
+            "type": "tax",
+            "settings": {}
+          },
+          "cart_widget-4": {
+            "type": "btnck",
+            "settings": {}
+          },
+          "b23feb51-be1f-4c3b-a9c9-d036dd9dad47": {
+            "type": "btnc",
+            "settings": {}
+          },
+          "cart_widget-5": {
+            "type": "btnmr",
+            "settings": {}
+          },
+          "cart_widget-6": {
+            "type": "img",
+            "settings": {
+              "image": "shopify://shop_images/Logos_Compras_sin_Bancolombia-negro.png"
+            }
+          },
+          "cart_widget-7": {
+            "type": "btn",
+            "settings": {
+              "title": "Regresar a la tienda",
+              "url": "/",
+              "style": "primary tu"
+            }
+          },
+          "03e54c2e-f80a-450e-b33c-9a16f4ed71a4": {
+            "type": "btn",
+            "settings": {
+              "title": "Buscar productos",
+              "url": "shopify://collections",
+              "style": "secondary"
+            }
+          }
+        },
+        "block_order": [
+          "cart_widget-0",
+          "cart_widget-1",
+          "cart_widget-4",
+          "b23feb51-be1f-4c3b-a9c9-d036dd9dad47",
+          "cart_widget-5",
+          "cart_widget-6",
+          "cart_widget-7",
+          "03e54c2e-f80a-450e-b33c-9a16f4ed71a4"
+        ],
+        "settings": {
+          "style": "2",
+          "pos": "1",
+          "calc_ship": true,
+          "show_note": true,
+          "show_rates": false,
+          "show_discount": true,
+          "show_gift_wrap": false
+        }
+      },
+      "mb_nav": {
+        "type": "mb_nav",
+        "blocks": {
+          "3b46b1ef-3384-48b9-be0e-f9ab53a407a5": {
+            "type": "menu",
+            "settings": {
+              "title": "Tienda",
+              "url": "shopify://collections/all",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "mb_nav-0": {
+            "type": "menu",
+            "settings": {
+              "title": "Contáctenos",
+              "url": "shopify://pages/contactenos",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "mb_nav-2": {
+            "type": "menu",
+            "disabled": true,
+            "settings": {
+              "title": "Conoce Cosmeka",
+              "url": "",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "1585642887352": {
+            "type": "menu",
+            "settings": {
+              "title": "Blog",
+              "url": "",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "mb_nav-4": {
+            "type": "wis",
+            "settings": {}
+          },
+          "mb_nav-5": {
+            "type": "sea",
+            "settings": {}
+          },
+          "mb_nav-6": {
+            "type": "acc",
+            "settings": {}
+          },
+          "mb_nav-7": {
+            "type": "help",
+            "settings": {
+              "title": "¿Necesitas Ayuda?",
+              "text": "<p></p><p><i class=\"pegk pe-7s-mail\"></i><span> <a href=\"mailto:info@cosmeka.com\">info@cosmeka.com</a></span></p><p><i class=\"pegk pe-7s-call\"></i> <span><a class=\"cg\" href=\"https://api.whatsapp.com/send?phone=573185230039&amp;text=%C2%A1Hola!%20Quiero%20saber%20m%C3%A1s%20sobre%20sus%20productos\">3185230039 </a></span></p>"
+            }
+          }
+        },
+        "block_order": [
+          "3b46b1ef-3384-48b9-be0e-f9ab53a407a5",
+          "mb_nav-0",
+          "mb_nav-2",
+          "1585642887352",
+          "mb_nav-4",
+          "mb_nav-5",
+          "mb_nav-6",
+          "mb_nav-7"
+        ],
+        "settings": {}
+      },
+      "mb_cat": {
+        "type": "mb_cat",
+        "blocks": {
+          "1585642167981": {
+            "type": "cat",
+            "settings": {
+              "cat": "maquillaje",
+              "title": "Categorias",
+              "menu": "categorias",
+              "lb": "",
+              "lb_cl": "#c7bce8",
+              "icons_op": "2",
+              "icon": ""
+            }
+          },
+          "7c8d0749-08b9-429d-9cb2-a6d01292952c": {
+            "type": "cat",
+            "settings": {
+              "cat": "",
+              "title": "Necesidades de la piel",
+              "menu": "necesidades-de-la-piel",
+              "lb": "",
+              "lb_cl": "#c7bce8",
+              "icons_op": "2",
+              "icon": ""
+            }
+          },
+          "1585642277236": {
+            "type": "cat",
+            "settings": {
+              "cat": "",
+              "title": "Marcas",
+              "menu": "marcas",
+              "lb": "",
+              "lb_cl": "#c7bce8",
+              "icons_op": "2",
+              "icon": ""
+            }
+          },
+          "2edbe9c3-3c44-4afd-b4a5-ac6778f8ad3b": {
+            "type": "cat",
+            "settings": {
+              "cat": "sets",
+              "title": "Kits",
+              "menu": "",
+              "lb": "",
+              "lb_cl": "#c7bce8",
+              "icons_op": "2",
+              "icon": ""
+            }
+          },
+          "1585642130935": {
+            "type": "cat",
+            "settings": {
+              "cat": "promociones",
+              "title": "Promociones",
+              "menu": "",
+              "lb": "Sale",
+              "lb_cl": "#dd5577",
+              "icons_op": "2",
+              "icon": "las la-piggy-bank"
+            }
+          },
+          "1585642450066": {
+            "type": "cat",
+            "disabled": true,
+            "settings": {
+              "cat": "productos-divertidos-fun-products",
+              "title": "Fun Box",
+              "menu": "",
+              "lb": "¡Muy Pronto!",
+              "lb_cl": "#2e2d4d",
+              "icons_op": "2",
+              "icon": "lar la-box"
+            }
+          }
+        },
+        "block_order": [
+          "1585642167981",
+          "7c8d0749-08b9-429d-9cb2-a6d01292952c",
+          "1585642277236",
+          "2edbe9c3-3c44-4afd-b4a5-ac6778f8ad3b",
+          "1585642130935",
+          "1585642450066"
+        ],
+        "settings": {}
+      },
+      "toolbar_mobile": {
+        "type": "toolbar_mobile",
+        "blocks": {
+          "1600443509337": {
+            "type": "nav",
+            "settings": {
+              "title": "Menu"
+            }
+          },
+          "1581912867486": {
+            "type": "filter",
+            "settings": {
+              "title": "Filtro"
+            }
+          },
+          "toolbar_mobile-2": {
+            "type": "cart",
+            "settings": {
+              "title": "Carrito"
+            }
+          },
+          "toolbar_mobile-4": {
+            "type": "search",
+            "settings": {
+              "title": "Buscar"
+            }
+          },
+          "toolbar_mobile-1": {
+            "type": "wish",
+            "settings": {
+              "title": "Wishlist"
+            }
+          },
+          "toolbar_mobile-3": {
+            "type": "account",
+            "settings": {
+              "title": "Mi Cuenta"
+            }
+          }
+        },
+        "block_order": [
+          "1600443509337",
+          "1581912867486",
+          "toolbar_mobile-2",
+          "toolbar_mobile-4",
+          "toolbar_mobile-1",
+          "toolbar_mobile-3"
+        ],
+        "settings": {
+          "show_txt": true
+        }
+      },
+      "header_banner": {
+        "type": "header_banner",
+        "settings": {
+          "link": "",
+          "text": "¡Envío gratis a partir de $200.000!<strong style=\"color: #000000\"></strong>",
+          "countdown": "",
+          "height": 23,
+          "fontsize": 14.5,
+          "cl": "#ffffff",
+          "bg": "#d790f8",
+          "bg_op": 100,
+          "show_close": false,
+          "show_icon": false,
+          "txt_btn": "cerrar",
+          "cl_btn": "#ffffff",
+          "ver": 1,
+          "date": 60
+        }
+      },
+      "cat_shop": {
+        "type": "cat_shop",
+        "blocks": {
+          "1585708473928": {
+            "type": "cat",
+            "settings": {
+              "collection": "promociones",
+              "icon": ""
+            }
+          },
+          "1585708487707": {
+            "type": "cat",
+            "settings": {
+              "collection": "",
+              "icon": ""
+            }
+          },
+          "1585708576212": {
+            "type": "cat",
+            "settings": {
+              "collection": "",
+              "icon": ""
+            }
+          },
+          "1585708497192": {
+            "type": "cat",
+            "settings": {
+              "collection": "",
+              "icon": ""
+            }
+          },
+          "1585708590448": {
+            "type": "cat",
+            "settings": {
+              "collection": "",
+              "icon": ""
+            }
+          }
+        },
+        "block_order": [
+          "1585708473928",
+          "1585708487707",
+          "1585708576212",
+          "1585708497192",
+          "1585708590448"
+        ],
+        "settings": {
+          "shown": false,
+          "source": "2",
+          "sort": "alphabetical"
+        }
+      },
+      "cat_heading": {
+        "type": "cat_heading",
+        "blocks": {
+          "1598577239594": {
+            "type": "1",
+            "settings": {}
+          },
+          "cat_heading-1": {
+            "type": "2",
+            "settings": {}
+          }
+        },
+        "block_order": [
+          "1598577239594",
+          "cat_heading-1"
+        ],
+        "settings": {
+          "shown": true,
+          "image": "shopify://shop_images/CosmosBG1.png",
+          "use_specify_image": false,
+          "parallax": true,
+          "color": "#2e2d4d",
+          "overlay": 76,
+          "padding": 40,
+          "bg_pos": "center top",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll"
+        }
+      },
+      "nt_filter": {
+        "type": "nt_filter",
+        "blocks": {
+          "1581909372373": {
+            "type": "color",
+            "settings": {
+              "hidden_block": false,
+              "title": "By Color",
+              "arra_enter": "Red,White,Brown,Blue, Black, Green, Grey, Sliver,Pink",
+              "use_auto_filter_tag": true,
+              "key": "Color"
+            }
+          },
+          "1581914074326": {
+            "type": "other",
+            "settings": {
+              "hidden_block": false,
+              "title": "By Price",
+              "arra_enter": "",
+              "use_auto_filter_tag": true,
+              "key": "Price",
+              "style": "ck"
+            }
+          },
+          "1581913909406": {
+            "type": "other",
+            "settings": {
+              "hidden_block": false,
+              "title": "By Size",
+              "arra_enter": "",
+              "use_auto_filter_tag": true,
+              "key": "Size",
+              "style": "ck"
+            }
+          },
+          "1581913174211": {
+            "type": "brand",
+            "settings": {
+              "hidden_block": false,
+              "title": "By Brand",
+              "arra_enter": "",
+              "use_auto_filter_tag": true,
+              "key": "Vendor",
+              "style": "ck"
+            }
+          }
+        },
+        "block_order": [
+          "1581909372373",
+          "1581914074326",
+          "1581913909406",
+          "1581913174211"
+        ],
+        "settings": {}
+      },
+      "collection_page": {
+        "type": "collection_page",
+        "settings": {
+          "limit": 9,
+          "space": 20,
+          "use_pagination": "infinite",
+          "use_bar_lm": true,
+          "col_pr": "3",
+          "col_pr_tb": "4",
+          "col_pr_mb": "6",
+          "pr_des": "1",
+          "show_vendor": true,
+          "use_cdt": false,
+          "round_cd": false,
+          "cdt_des": "1",
+          "use_eq_height": true,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_contain",
+          "image_position": "8"
+        }
+      },
+      "article-heading": {
+        "type": "article-heading",
+        "blocks": {
+          "article-heading-0": {
+            "type": "1",
+            "settings": {}
+          },
+          "article-heading-2": {
+            "type": "3",
+            "settings": {}
+          }
+        },
+        "block_order": [
+          "article-heading-0",
+          "article-heading-2"
+        ],
+        "settings": {
+          "shown": true,
+          "use_specify_image": true,
+          "parallax": true,
+          "color": "#000000",
+          "overlay": 54,
+          "padding": 50,
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll"
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "blocks": {
+          "article-template-0": {
+            "type": "content",
+            "settings": {}
+          },
+          "article-template-1": {
+            "type": "tags",
+            "settings": {}
+          },
+          "article-template-2": {
+            "type": "social",
+            "settings": {
+              "follow": false,
+              "tooltip": true,
+              "des": "2"
+            }
+          },
+          "article-template-3": {
+            "type": "nav",
+            "settings": {}
+          },
+          "article-template-4": {
+            "type": "related",
+            "settings": {
+              "title": "Related Articles",
+              "t_center": true,
+              "limit": 5,
+              "date": "date",
+              "col_pr": "4",
+              "col_pr_tb": "4",
+              "col_pr_mb": "12",
+              "loop": false,
+              "au_time": 0,
+              "au_hover": true,
+              "button": true,
+              "btn_vi": "2",
+              "btn_owl": "1",
+              "btn_color": "0",
+              "dot": true,
+              "dot_owl": "1",
+              "dot_color": "1",
+              "use_eq_height": true,
+              "image_ratio": "ratio4_3",
+              "image_size": "nt_cover",
+              "image_position": "8"
+            }
+          },
+          "article-template-5": {
+            "type": "comments",
+            "settings": {}
+          }
+        },
+        "block_order": [
+          "article-template-0",
+          "article-template-1",
+          "article-template-2",
+          "article-template-3",
+          "article-template-4",
+          "article-template-5"
+        ],
+        "settings": {}
+      },
+      "pr_summary": {
+        "type": "pr_summary",
+        "blocks": {
+          "pr_summary-0": {
+            "type": "title",
+            "settings": {
+              "size": 21
+            }
+          },
+          "pr_summary-1": {
+            "type": "pricereview",
+            "settings": {
+              "price": "0",
+              "rating": true
+            }
+          },
+          "pr_summary-2": {
+            "type": "des",
+            "settings": {
+              "des": "2",
+              "page": "",
+              "length": 51,
+              "readm": false,
+              "readm_txt": "Ver mas"
+            }
+          },
+          "pr_summary-3": {
+            "type": "frm",
+            "settings": {
+              "ani": "shake",
+              "time": 4,
+              "btn_des": "3",
+              "btn_txt": "3",
+              "swatch_design": "7",
+              "style_color": "2",
+              "swatch_style": "2",
+              "swatch_size": "medium",
+              "show_qty": true,
+              "btn_atc_full": true,
+              "enable_payment_btn": false
+            }
+          },
+          "1585709158220": {
+            "type": "img",
+            "settings": {
+              "mess": "",
+              "size": 16,
+              "source": "1",
+              "image": "shopify://shop_images/Logos_Compras_sin_Bancolombia-negro.png",
+              "al": "tl",
+              "wimg": 89,
+              "svg": "",
+              "height": 34
+            }
+          },
+          "pr_summary-4": {
+            "type": "size",
+            "disabled": true,
+            "settings": {
+              "size_chart": "1",
+              "sc_type": "1",
+              "page": "envio-devoluciones",
+              "size_ck": "",
+              "delivery": true,
+              "page_dr": "envio-devoluciones",
+              "ask": false
+            }
+          },
+          "pr_summary-6": {
+            "type": "social",
+            "disabled": true,
+            "settings": {
+              "class": "tdf"
+            }
+          },
+          "1596202526109": {
+            "type": "order",
+            "settings": {
+              "icon": "2",
+              "icon_name": "truck",
+              "fade": true,
+              "txt": "Ordena en la próximas [hour] \npara recibirlo entre [date_start] y [date_end].\n*Después de confirmar tu pago.(No aplica para todas las ciudades)",
+              "ds": 5,
+              "de": 12,
+              "cut": "SAT,SUN",
+              "frm": "1",
+              "timezone": false,
+              "time": "16:00:00",
+              "hr": "Hora",
+              "min": "Minutos"
+            }
+          }
+        },
+        "block_order": [
+          "pr_summary-0",
+          "pr_summary-1",
+          "pr_summary-2",
+          "pr_summary-3",
+          "1585709158220",
+          "pr_summary-4",
+          "pr_summary-6",
+          "1596202526109"
+        ],
+        "settings": {}
+      },
+      "pr_description": {
+        "type": "pr_description",
+        "blocks": {
+          "pr_description-0": {
+            "type": "des",
+            "settings": {
+              "title": "Descripción"
+            }
+          },
+          "c484cf0c-d7ce-42ff-ac2a-cb275f1fc43b": {
+            "type": "text",
+            "settings": {
+              "title": "Ingredientes",
+              "text": ""
+            }
+          },
+          "7b09de66-5320-4fbb-9305-ec819a34d612": {
+            "type": "add",
+            "settings": {
+              "title": "Beneficios"
+            }
+          },
+          "pr_description-2": {
+            "type": "rivui",
+            "settings": {
+              "title": "Reviews"
+            }
+          }
+        },
+        "block_order": [
+          "pr_description-0",
+          "c484cf0c-d7ce-42ff-ac2a-cb275f1fc43b",
+          "7b09de66-5320-4fbb-9305-ec819a34d612",
+          "pr_description-2"
+        ],
+        "settings": {
+          "show": true,
+          "bgcl": "#f5f5f5",
+          "bgclmb": "#ffffff",
+          "des_w": "3",
+          "des_mb": "2",
+          "auto": true,
+          "mg": "30px,,30px,",
+          "mg_mb": "0,,0,"
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show": true,
+          "title": "Tambien te puede gustar",
+          "sub_title": "",
+          "sub_font": "1",
+          "style_title": "title_3",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "display_type": "3",
+          "limit": 6,
+          "space": 30,
+          "col_pr": "3",
+          "col_pr_tb": "3",
+          "col_pr_mb": "6",
+          "pr_des": "1",
+          "show_vendor": false,
+          "use_cdt": false,
+          "round_cd": false,
+          "cdt_des": "1",
+          "loop": true,
+          "au_time": 0,
+          "au_hover": true,
+          "button": false,
+          "btn_vi": "1",
+          "btn_owl": "1",
+          "btn_color": "0",
+          "dot": false,
+          "dot_owl": "1",
+          "dot_color": "1",
+          "use_eq_height": false,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8"
+        }
+      },
+      "recently_viewed": {
+        "type": "recently_viewed",
+        "settings": {
+          "show": false,
+          "unavailable_prs": "show",
+          "title": "Recently viewed products",
+          "sub_title": "",
+          "sub_font": "2",
+          "style_title": "title_1",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "limit": 6,
+          "sortby": "3",
+          "space": 30,
+          "col_pr": "3",
+          "col_pr_tb": "3",
+          "col_pr_mb": "6",
+          "pr_des": "1",
+          "show_vendor": false,
+          "use_cdt": false,
+          "round_cd": false,
+          "cdt_des": "1",
+          "loop": true,
+          "au_time": 0,
+          "au_hover": true,
+          "button": false,
+          "btn_vi": "1",
+          "btn_owl": "1",
+          "btn_color": "0",
+          "dot": false,
+          "dot_owl": "1",
+          "dot_color": "1",
+          "use_eq_height": false,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8"
+        }
+      },
+      "list_cat_heading": {
+        "type": "list_cat_heading",
+        "settings": {
+          "shown": true,
+          "use_specify_image": true,
+          "parallax": true,
+          "color": "#d790f8",
+          "overlay": 75,
+          "padding": 40,
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll"
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "layout": "default",
+          "hoverz": true,
+          "cat_design": "5",
+          "cat_space": "30",
+          "display_type": "all",
+          "sort": "alphabetical",
+          "col": "4",
+          "col_md": "3",
+          "col_mb": "6",
+          "pr_txt": "products",
+          "use_eq_height": true,
+          "image_ratio": "ratio1_1"
+        }
+      },
+      "cart_heading": {
+        "type": "cart_heading",
+        "blocks": {
+          "cart_heading-0": {
+            "type": "1",
+            "settings": {
+              "title": "Tú bolsa"
+            }
+          }
+        },
+        "block_order": [
+          "cart_heading-0"
+        ],
+        "settings": {
+          "image": "shopify://shop_images/CosmosBG1.png",
+          "parallax": false,
+          "color": "#2e2d4d",
+          "overlay": 75,
+          "padding": 40,
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll"
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "blocks": {
+          "cart-template-0": {
+            "type": "price",
+            "settings": {}
+          },
+          "cart-template-1": {
+            "type": "tax",
+            "settings": {}
+          },
+          "cart-template-3": {
+            "type": "btnck",
+            "settings": {}
+          },
+          "cart-template-4": {
+            "type": "btnmr",
+            "settings": {}
+          },
+          "cart-template-5": {
+            "type": "img",
+            "settings": {
+              "wimg": 50
+            }
+          },
+          "17ca039c-16d4-4840-a2aa-c15ea4df64c0": {
+            "type": "btn2",
+            "settings": {
+              "title": "Seguir Comprando",
+              "url": "shopify://collections",
+              "style": "secondary"
+            }
+          },
+          "cart-template-6": {
+            "type": "btn",
+            "settings": {
+              "title": "Ver colección",
+              "url": "shopify://collections",
+              "style": "primary tu"
+            }
+          }
+        },
+        "block_order": [
+          "cart-template-0",
+          "cart-template-1",
+          "cart-template-3",
+          "cart-template-4",
+          "cart-template-5",
+          "17ca039c-16d4-4840-a2aa-c15ea4df64c0",
+          "cart-template-6"
+        ],
+        "settings": {
+          "ajax_enable": true,
+          "calc_ship": false,
+          "show_note": true,
+          "show_rates": false,
+          "show_discount": true,
+          "show_gift_wrap": false
+        }
+      },
+      "cart_upsell": {
+        "type": "cart_upsell",
+        "settings": {
+          "show_section": true,
+          "title": "Complete your cart",
+          "sub_title": "",
+          "style_title": "title_1",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "collection": "",
+          "limit": 6,
+          "space_cat": "30",
+          "col_pr": "3",
+          "col_pr_tb": "3",
+          "col_pr_mb": "6",
+          "pr_des": "1",
+          "show_vendor": false,
+          "sale_countdown": false,
+          "collection_countdown_style": "dark",
+          "use_eq_height": false,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8"
+        }
+      },
+      "blog-heading": {
+        "type": "blog-heading",
+        "blocks": {
+          "blog-heading-0": {
+            "type": "1",
+            "settings": {}
+          },
+          "blog-heading-1": {
+            "type": "2",
+            "settings": {}
+          }
+        },
+        "block_order": [
+          "blog-heading-0",
+          "blog-heading-1"
+        ],
+        "settings": {
+          "shown": true,
+          "image": "shopify://shop_images/CosmosBG1.png",
+          "parallax": true,
+          "color": "#2e2d4d",
+          "overlay": 75,
+          "padding": 50,
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll"
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "shop_design": "default",
+          "art_des": "1",
+          "limit": 5,
+          "space": 40,
+          "use_pagination": "default",
+          "use_bar_lm": true,
+          "btn_rd": true,
+          "btn_style": "default",
+          "date": "date",
+          "col_pr": "6",
+          "col_pr_tb": "6",
+          "col_pr_mb": "12",
+          "show_au": false,
+          "show_dt": false,
+          "show_cm": false,
+          "show_tg": true,
+          "cl": "#ffffff",
+          "cl2": "#878787",
+          "bg": "#000000",
+          "overlay": 90,
+          "des_cnt": "1",
+          "use_eq_height": true,
+          "image_ratio": "ratio4_3",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "source": "0",
+          "count": true
+        }
+      },
+      "blog-slider": {
+        "type": "blog-slider",
+        "settings": {
+          "blog": "",
+          "limit": 6,
+          "date": "date",
+          "col_pr": "4",
+          "col_pr_tb": "4",
+          "col_pr_mb": "12",
+          "show_au": true,
+          "show_dt": true,
+          "loop": false,
+          "au_time": 0,
+          "au_hover": true,
+          "button": true,
+          "btn_vi": "1",
+          "btn_owl": "1",
+          "btn_color": "0",
+          "dot": false,
+          "dot_owl": "1",
+          "dot_color": "1",
+          "cl": "#fff",
+          "cl2": "#878787",
+          "bg": "#000",
+          "overlay": 80,
+          "use_eq_height": true,
+          "image_ratio": "ratio4_3",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "layout": "nt_full"
+        }
+      },
+      "bptf-heading": {
+        "type": "bptf-heading",
+        "blocks": {
+          "bptf-heading-0": {
+            "type": "1",
+            "settings": {}
+          },
+          "bptf-heading-1": {
+            "type": "2",
+            "settings": {}
+          }
+        },
+        "block_order": [
+          "bptf-heading-0",
+          "bptf-heading-1"
+        ],
+        "settings": {
+          "shown": true,
+          "image": "",
+          "parallax": false,
+          "color": "#000",
+          "overlay": 54,
+          "padding": 50,
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll"
+        }
+      },
+      "bptf-template": {
+        "type": "bptf-template",
+        "settings": {
+          "ptf_layout": "default",
+          "shop_design": "masonry",
+          "limit": 5,
+          "space": 30,
+          "use_pagination": "default",
+          "use_bar_lm": true,
+          "btn_rd": true,
+          "btn_style": "default",
+          "col_pr": "6",
+          "col_pr_tb": "6",
+          "col_pr_mb": "12",
+          "use_eq_height": false,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "source": "1",
+          "count": true
+        }
+      },
+      "aptf-heading": {
+        "type": "aptf-heading",
+        "blocks": {
+          "aptf-heading-0": {
+            "type": "1",
+            "settings": {}
+          },
+          "aptf-heading-1": {
+            "type": "2",
+            "settings": {}
+          }
+        },
+        "block_order": [
+          "aptf-heading-0",
+          "aptf-heading-1"
+        ],
+        "settings": {
+          "shown": true,
+          "image": "",
+          "use_specify_image": true,
+          "parallax": false,
+          "color": "#000",
+          "overlay": 54,
+          "padding": 50,
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll"
+        }
+      },
+      "aptf-template": {
+        "type": "aptf-template",
+        "blocks": {
+          "aptf-template-0": {
+            "type": "content",
+            "settings": {}
+          },
+          "aptf-template-1": {
+            "type": "infos",
+            "settings": {
+              "cat": true,
+              "author": true,
+              "tags": true
+            }
+          },
+          "aptf-template-2": {
+            "type": "social",
+            "settings": {
+              "follow": false,
+              "tooltip": true,
+              "des": "2"
+            }
+          },
+          "aptf-template-3": {
+            "type": "nav",
+            "settings": {}
+          },
+          "aptf-template-4": {
+            "type": "related",
+            "settings": {
+              "title": "Related Portfolio",
+              "t_center": true,
+              "limit": 5,
+              "date": "date",
+              "col_pr": "4",
+              "col_pr_tb": "4",
+              "col_pr_mb": "12",
+              "loop": false,
+              "au_time": 0,
+              "au_hover": true,
+              "button": true,
+              "btn_vi": "2",
+              "btn_owl": "1",
+              "btn_color": "0",
+              "dot": true,
+              "dot_owl": "1",
+              "dot_color": "1",
+              "use_eq_height": false,
+              "image_ratio": "ratio_nt",
+              "image_size": "nt_cover",
+              "image_position": "8"
+            }
+          }
+        },
+        "block_order": [
+          "aptf-template-0",
+          "aptf-template-1",
+          "aptf-template-2",
+          "aptf-template-3",
+          "aptf-template-4"
+        ],
+        "settings": {
+          "ptf_layout": "default"
+        }
+      },
+      "pages_heading": {
+        "type": "pages_heading",
+        "blocks": {
+          "pages_heading-0": {
+            "type": "1",
+            "settings": {}
+          }
+        },
+        "block_order": [
+          "pages_heading-0"
+        ],
+        "settings": {
+          "image": "shopify://shop_images/CosmosBG1.png",
+          "parallax": true,
+          "color": "#2e2d4d",
+          "overlay": 75,
+          "padding": 40,
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll"
+        }
+      },
+      "sticky_atc": {
+        "type": "sticky_atc",
+        "settings": {
+          "mb": true,
+          "ani": "none",
+          "time": 6
+        }
+      },
+      "sales_popup": {
+        "type": "sales_popup",
+        "settings": {
+          "collection_id": "",
+          "limit": 50,
+          "index": true,
+          "product": true,
+          "collection": false,
+          "article": false,
+          "blog": false,
+          "cart": false,
+          "page": false,
+          "pp_type": "2",
+          "start_time": 5,
+          "start_time_unit": "1000",
+          "stay_time": 10,
+          "stay_time_unit": "1000",
+          "show_cl": true,
+          "show_qv": true,
+          "list_user": "Nathan (California) | Alex (Texas) | Henry (New York) | Kiti (Ohio) | Daniel (Washington) | Hau (California) | Van (Ohio) | Sara (Montana)  | Kate (Georgia)",
+          "show_time": true,
+          "list_time": "4 hours ago | 2 hours ago | 45 minutes ago | 1 day ago | 8 hours ago | 10 hours ago | 25 minutes ago | 2 day ago | 5 hours ago | 40 minutes ago",
+          "show_verify": true,
+          "des": "1",
+          "pp_ani": "anislideInUp",
+          "txt1": "purchased",
+          "txt2": "Verified"
+        }
+      },
+      "promo_pr_pp": {
+        "type": "promo_pr_pp",
+        "settings": {
+          "title": "¡Espera! ¿No encuentras lo que buscas?",
+          "sub_title": "Tal vez esto guste...",
+          "sub_font": "1",
+          "btn_title": "See all products",
+          "style_title": "title_9",
+          "ic_tt": "",
+          "show_clpr": true,
+          "collection_id": "promociones",
+          "limit": 8,
+          "col_pr": "4",
+          "pr_des": "1",
+          "show_vendor": true,
+          "use_cdt": false,
+          "round_cd": false,
+          "cdt_des": "1",
+          "loop": true,
+          "au_time": 0,
+          "au_hover": true,
+          "button": false,
+          "btn_vi": "1",
+          "btn_owl": "1",
+          "btn_color": "0",
+          "dot": false,
+          "dot_owl": "1",
+          "dot_color": "1",
+          "use_eq_height": true,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "index": false,
+          "product": false,
+          "collection": false,
+          "article": false,
+          "blog": false,
+          "cart": false,
+          "page": false,
+          "day_next": 1
+        }
+      },
+      "re_upsell": {
+        "type": "re_upsell",
+        "settings": {
+          "title": "You may also like",
+          "sub_title": "",
+          "sub_font": "2",
+          "style_title": "title_2",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "display_type": "3",
+          "limit": 6,
+          "space": 30,
+          "col_pr": "3",
+          "col_pr_tb": "3",
+          "col_pr_mb": "6",
+          "pr_des": "1",
+          "show_vendor": false,
+          "use_cdt": false,
+          "round_cd": false,
+          "cdt_des": "1",
+          "use_eq_height": false,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8"
+        }
+      },
+      "page_meta_ntt4": {
+        "type": "page_meta_ntt4",
+        "settings": {}
+      },
+      "img_meta_ntt4": {
+        "type": "img_meta_ntt4",
+        "settings": {}
+      },
+      "sidebar_shop": {
+        "type": "sidebar_shop",
+        "settings": {}
+      },
+      "header_2": {
+        "type": "header_2",
+        "blocks": {
+          "header_2-0": {
+            "type": "simple",
+            "settings": {
+              "title": "Heading 1",
+              "url": "#",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "header_2-1": {
+            "type": "logo",
+            "settings": {}
+          },
+          "header_2-2": {
+            "type": "simple",
+            "settings": {
+              "title": "Heading 2",
+              "url": "#",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          }
+        },
+        "block_order": [
+          "header_2-0",
+          "header_2-1",
+          "header_2-2"
+        ],
+        "settings": {
+          "height": 62,
+          "arrow": false,
+          "source": "1",
+          "txt": "Welcome to our store!",
+          "social": "2",
+          "align": "tc",
+          "hover": "hover_side_up"
+        }
+      },
+      "header_4": {
+        "type": "header_4",
+        "blocks": {
+          "header_4-0": {
+            "type": "simple",
+            "settings": {
+              "title": "Heading 1",
+              "url": "#",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "header_4-1": {
+            "type": "simple",
+            "settings": {
+              "title": "Heading 2",
+              "url": "#",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          }
+        },
+        "block_order": [
+          "header_4-0",
+          "header_4-1"
+        ],
+        "settings": {
+          "height": 62,
+          "height_2": 63,
+          "arrow": false,
+          "border": true,
+          "color": "#ececec",
+          "source": "1",
+          "txt": "Welcome to our store!",
+          "social": "2",
+          "align": "tc",
+          "hover": "hover_side_up"
+        }
+      },
+      "header_5": {
+        "type": "header_5",
+        "blocks": {
+          "header_5-0": {
+            "type": "simple",
+            "settings": {
+              "title": "Heading 1",
+              "url": "#",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "header_5-1": {
+            "type": "simple",
+            "settings": {
+              "title": "Heading 2",
+              "url": "#",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          }
+        },
+        "block_order": [
+          "header_5-0",
+          "header_5-1"
+        ],
+        "settings": {
+          "height": 62,
+          "arrow": false,
+          "align": "tl",
+          "hover": "hover_side_up"
+        }
+      },
+      "header_6": {
+        "type": "header_6",
+        "settings": {
+          "height": 62,
+          "source": "2",
+          "txt": "Welcome to our store!",
+          "social": "2"
+        }
+      },
+      "header_7": {
+        "type": "header_7",
+        "blocks": {
+          "header_7-0": {
+            "type": "menu",
+            "settings": {
+              "title": "Heading 1",
+              "url": "#",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "header_7-1": {
+            "type": "menu",
+            "settings": {
+              "title": "Heading 2",
+              "url": "#",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          }
+        },
+        "block_order": [
+          "header_7-0",
+          "header_7-1"
+        ],
+        "settings": {
+          "show_currencies": true,
+          "source": "2",
+          "txt": "Welcome to our store!",
+          "social": "2"
+        }
+      },
+      "header_8": {
+        "type": "header_8",
+        "blocks": {
+          "1600190722016": {
+            "type": "mega",
+            "settings": {
+              "title": "Categorías",
+              "url": "shopify://collections",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": true,
+              "cl": "#c7bce8",
+              "lb": "",
+              "lb_cl": "#4d1c1c",
+              "pos": "default",
+              "wid": "cus",
+              "cus_wid": 1200
+            }
+          },
+          "50f3dac1-5763-40ae-b6e9-f4d78f07fa15": {
+            "type": "link",
+            "settings": {
+              "tt_hd": "<strong>LIMPIEZA FACIAL COREANA</strong>",
+              "url": "shopify://collections/limpieza",
+              "open_link": "_self",
+              "menu": "limpieza",
+              "col": "4"
+            }
+          },
+          "a58bc9d8-195e-44bf-b986-2434afdd73cc": {
+            "type": "link",
+            "settings": {
+              "tt_hd": "<strong>MASCARILLAS coreanas</strong>",
+              "url": "shopify://collections/mascarillas",
+              "open_link": "_self",
+              "menu": "mascarillas",
+              "col": "4"
+            }
+          },
+          "af1aa0b8-8e9a-471a-9764-8b0834232bd2": {
+            "type": "link",
+            "settings": {
+              "tt_hd": "<strong>HIDRATANTES Corenas</strong>",
+              "url": "shopify://collections/hidratante",
+              "open_link": "_self",
+              "menu": "hidratantes",
+              "col": "4"
+            }
+          },
+          "a9840ec3-d8c4-4d6b-a90f-2e8d2aa9b10c": {
+            "type": "link",
+            "settings": {
+              "tt_hd": "<strong>TRATAMIENTOS para el acné</strong>",
+              "url": "shopify://collections/tratamientos",
+              "open_link": "_self",
+              "menu": "tratamientos",
+              "col": "4"
+            }
+          },
+          "fdd89827-e31b-43bb-8034-7d5584ce1181": {
+            "type": "link2",
+            "settings": {
+              "col": "4",
+              "menu": "exfoliantes"
+            }
+          },
+          "6c15136a-cc96-4653-b4ac-b4b59720ac2c": {
+            "type": "link2",
+            "settings": {
+              "col": "4",
+              "menu": ""
+            }
+          },
+          "32a7b36c-396f-4b89-98a9-ea7d42404a9c": {
+            "type": "link2",
+            "settings": {
+              "col": "4",
+              "menu": ""
+            }
+          },
+          "0ad940b9-e9aa-4046-8651-110460d2883c": {
+            "type": "dropdown",
+            "settings": {
+              "title": "Necesidades de la piel",
+              "url": "",
+              "open_link": "_self",
+              "menu": "necesidades-de-la-piel",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "rgba(0,0,0,0)",
+              "pos": "right"
+            }
+          },
+          "731f31e0-cfc3-47a9-8b53-cd7bd2456f07": {
+            "type": "dropdown",
+            "settings": {
+              "title": "Rutinas",
+              "url": "shopify://collections/rutinas-cuidado-facial-coreano",
+              "open_link": "_self",
+              "menu": "rutina-cuidado-facial",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "",
+              "pos": "right"
+            }
+          },
+          "eed2578b-a141-434d-ba97-d93a221f2c14": {
+            "type": "dropdown",
+            "settings": {
+              "title": "Marcas",
+              "url": "shopify://collections",
+              "open_link": "_self",
+              "menu": "marcas",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "rgba(0,0,0,0)",
+              "pos": "right"
+            }
+          },
+          "0bf47fdc-aec7-4db1-aa3a-e6f3836c5bc4": {
+            "type": "simple",
+            "settings": {
+              "title": "¡Promociones!",
+              "url": "shopify://collections/promociones",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#f800ff",
+              "lb": "Sale",
+              "lb_cl": "#ff00e4"
+            }
+          },
+          "806c4cad-243a-4ee0-aedd-f2b3d5ddff5f": {
+            "type": "simple",
+            "settings": {
+              "title": "Reseñas",
+              "url": "shopify://pages/reviews",
+              "open_link": "_self",
+              "icon": "las la-star",
+              "cus_cl": true,
+              "cl": "#ffffff",
+              "lb": "",
+              "lb_cl": "#f4d62f"
+            }
+          }
+        },
+        "block_order": [
+          "1600190722016",
+          "50f3dac1-5763-40ae-b6e9-f4d78f07fa15",
+          "a58bc9d8-195e-44bf-b986-2434afdd73cc",
+          "af1aa0b8-8e9a-471a-9764-8b0834232bd2",
+          "a9840ec3-d8c4-4d6b-a90f-2e8d2aa9b10c",
+          "fdd89827-e31b-43bb-8034-7d5584ce1181",
+          "6c15136a-cc96-4653-b4ac-b4b59720ac2c",
+          "32a7b36c-396f-4b89-98a9-ea7d42404a9c",
+          "0ad940b9-e9aa-4046-8651-110460d2883c",
+          "731f31e0-cfc3-47a9-8b53-cd7bd2456f07",
+          "eed2578b-a141-434d-ba97-d93a221f2c14",
+          "0bf47fdc-aec7-4db1-aa3a-e6f3836c5bc4",
+          "806c4cad-243a-4ee0-aedd-f2b3d5ddff5f"
+        ],
+        "settings": {
+          "height": 90,
+          "height_2": 76,
+          "arrow": true,
+          "border": true,
+          "color": "#d790f8",
+          "align": "tc",
+          "hover": "hover_fade_in",
+          "bg": "#ffffff",
+          "cl_txt": "#222222",
+          "text": "",
+          "shop_cat": false,
+          "txt_cat": "LINKS DE INTERES",
+          "bgcat": "#000000",
+          "clcat": "#ffffff"
+        }
+      },
+      "hcat_nav": {
+        "type": "hcat_nav",
+        "blocks": {
+          "hcat_nav-0": {
+            "type": "simple",
+            "settings": {
+              "title": "Mi Cuenta",
+              "url": "https://www.cosmeka.com/account/login",
+              "icons_op": "2",
+              "icon": "las la-user",
+              "cus_cl": false,
+              "cl": "#c7bce8",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "hcat_nav-1": {
+            "type": "simple",
+            "settings": {
+              "title": "Wish List",
+              "url": "https://www.cosmeka.com/collections",
+              "icons_op": "2",
+              "icon": "las la-heart",
+              "cus_cl": false,
+              "cl": "#c7bce8",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "1600141466879": {
+            "type": "simple",
+            "disabled": true,
+            "settings": {
+              "title": "Nuestras tiendas",
+              "url": "shopify://pages/nuestras-tiendas",
+              "icons_op": "2",
+              "icon": "las la-store",
+              "cus_cl": false,
+              "cl": "#c7bce8",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "1599970394033": {
+            "type": "simple",
+            "settings": {
+              "title": "Blog",
+              "url": "shopify://blogs/noticias",
+              "icons_op": "2",
+              "icon": "las la-rss",
+              "cus_cl": false,
+              "cl": "#c7bce8",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "1599969060031": {
+            "type": "simple",
+            "settings": {
+              "title": "Quiero ser distribuidor",
+              "url": "shopify://pages/quiero-ser-distribuidor",
+              "icons_op": "2",
+              "icon": "las la-hand-holding-usd",
+              "cus_cl": false,
+              "cl": "#c7bce8",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "1599970609685": {
+            "type": "simple",
+            "settings": {
+              "title": "Preguntas Frecuentes",
+              "url": "shopify://pages/preguntas-frecuentes",
+              "icons_op": "2",
+              "icon": "lar la-question-circle",
+              "cus_cl": false,
+              "cl": "#c7bce8",
+              "lb": "",
+              "lb_cl": ""
+            }
+          }
+        },
+        "block_order": [
+          "hcat_nav-0",
+          "hcat_nav-1",
+          "1600141466879",
+          "1599970394033",
+          "1599969060031",
+          "1599970609685"
+        ],
+        "settings": {}
+      },
+      "nt_filter2": {
+        "type": "nt_filter2",
+        "blocks": {
+          "nt_filter2-0": {
+            "type": "title",
+            "settings": {
+              "hidden_block": false,
+              "title": "Por Nombre"
+            }
+          },
+          "nt_filter2-1": {
+            "type": "price",
+            "settings": {
+              "hidden_block": false,
+              "title": "Por Precio"
+            }
+          },
+          "nt_filter2-5": {
+            "type": "available",
+            "settings": {
+              "hidden_block": false,
+              "count": true,
+              "title": "Disponibilidad"
+            }
+          },
+          "1599452868016": {
+            "type": "tags",
+            "settings": {
+              "hidden_block": false,
+              "count": true,
+              "title": "Por Categoria",
+              "style": "ck"
+            }
+          },
+          "23cfa89c-4ec0-48a5-8223-25cdbab876ea": {
+            "type": "vendor",
+            "settings": {
+              "hidden_block": false,
+              "count": true,
+              "title": "Por Marcas",
+              "style": "tag"
+            }
+          }
+        },
+        "block_order": [
+          "nt_filter2-0",
+          "nt_filter2-1",
+          "nt_filter2-5",
+          "1599452868016",
+          "23cfa89c-4ec0-48a5-8223-25cdbab876ea"
+        ],
+        "settings": {}
+      },
+      "sidebar_shop2": {
+        "type": "sidebar_shop2",
+        "blocks": {
+          "sidebar_shop2-0": {
+            "type": "title",
+            "settings": {
+              "hidden_block": false,
+              "title": "Buscar"
+            }
+          },
+          "0b4a9254-3074-467c-844f-69cffc662147": {
+            "type": "shipping",
+            "settings": {
+              "title": "Shipping & Delivery",
+              "shipping_1": "truck,ENVÍO RÁPIDO Y GRATUITO,Envío gratuito por compras superiores a $200.000",
+              "shipping_2": "headset,\nATENCIÓN AL CLIENTE,Te resolvemos todas tus dudas con un especialista.",
+              "shipping_3": "pe-7s-door-lock,COMPRAS SEGURAS,Respaldamos tus compras con nuestros aliados.",
+              "shipping_4": "",
+              "shipping_5": "",
+              "shipping_6": ""
+            }
+          }
+        },
+        "block_order": [
+          "sidebar_shop2-0",
+          "0b4a9254-3074-467c-844f-69cffc662147"
+        ],
+        "settings": {}
+      },
+      "wis_heading": {
+        "type": "wis_heading",
+        "blocks": {
+          "wis_heading-0": {
+            "type": "2",
+            "settings": {
+              "text": "<p><strong>Tú lista de deseos</strong></p>"
+            }
+          }
+        },
+        "block_order": [
+          "wis_heading-0"
+        ],
+        "settings": {
+          "parallax": true,
+          "color": "#d790f8",
+          "overlay": 75,
+          "padding": 40,
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll"
+        }
+      },
+      "wishlist_page": {
+        "type": "wishlist_page",
+        "blocks": {
+          "wishlist_page-0": {
+            "type": "btn",
+            "settings": {
+              "title": "Regresar a la tienda",
+              "url": "",
+              "style": "primary tu"
+            }
+          }
+        },
+        "block_order": [
+          "wishlist_page-0"
+        ],
+        "settings": {
+          "shop_layout": "default",
+          "show_col_switch": true,
+          "limit": 12,
+          "space": 30,
+          "use_pagination": "default",
+          "use_bar_lm": true,
+          "btn_rd": true,
+          "btn_style": "default",
+          "col_pr": "3",
+          "col_pr_tb": "3",
+          "col_pr_mb": "6",
+          "pr_des": "1",
+          "show_vendor": false,
+          "use_cdt": false,
+          "round_cd": false,
+          "cdt_des": "1",
+          "use_eq_height": false,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8"
+        }
+      },
+      "sea_heading": {
+        "type": "sea_heading",
+        "blocks": {
+          "sea_heading-0": {
+            "type": "1",
+            "settings": {}
+          }
+        },
+        "block_order": [
+          "sea_heading-0"
+        ],
+        "settings": {
+          "image": "shopify://shop_images/CosmosBG1.png",
+          "parallax": false,
+          "color": "#2e2d4d",
+          "overlay": 76,
+          "padding": 40,
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll"
+        }
+      },
+      "search_page": {
+        "type": "search_page",
+        "settings": {
+          "shop_layout": "default",
+          "shop_design": "default",
+          "show_col_switch": true,
+          "limit": 12,
+          "space": 30,
+          "use_pagination": "default",
+          "use_bar_lm": true,
+          "btn_rd": true,
+          "btn_style": "default",
+          "col_pr": "3",
+          "col_pr_tb": "3",
+          "col_pr_mb": "6",
+          "pr_des": "1",
+          "show_vendor": false,
+          "use_cdt": false,
+          "round_cd": false,
+          "cdt_des": "1",
+          "use_eq_height": false,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8"
+        }
+      },
+      "us_heading": {
+        "type": "us_heading",
+        "blocks": {
+          "us_heading-0": {
+            "type": "1",
+            "settings": {
+              "title": "Quiénes somos"
+            }
+          },
+          "us_heading-1": {
+            "type": "2",
+            "settings": {
+              "text": ""
+            }
+          }
+        },
+        "block_order": [
+          "us_heading-0",
+          "us_heading-1"
+        ],
+        "settings": {
+          "image": "shopify://shop_images/CosmosBG1.png",
+          "parallax": true,
+          "color": "#2e2d4d",
+          "overlay": 80,
+          "padding": 40,
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll"
+        }
+      },
+      "page_about_us": {
+        "type": "page_about_us",
+        "blocks": {
+          "page_about_us-4": {
+            "type": "2",
+            "settings": {
+              "title": "COSMEKA llegó con el fin de reunir diversas marcas de cosmética coreana para enseñar a la mujer latina, la manera ideal para el cuidado de la piel, teniendo como referente la cultura oriental, ya que, gracias a su profesionalismo han desarrollado diferentes productos especializados en el cuidado la piel para lucir un rostro suave y sedoso."
+            }
+          },
+          "page_about_us-0": {
+            "type": "1",
+            "settings": {
+              "title": "Misión",
+              "content": "Nuestra misión es ofrecer los mejores productos de cosmética coreana, brindando una experiencia única con cada una de las marcas  y mejorando las necesidades de nuestros clientes en cuanto a cuidado facial.",
+              "al": "txtn",
+              "cl": "6",
+              "cl_mb": "12"
+            }
+          },
+          "page_about_us-2": {
+            "type": "1",
+            "settings": {
+              "title": "Vision",
+              "content": "Alcanzar un posicionamiento en el mercado cosmetológico colombiano, dando a conocer la cultura del k- beauty a través de experiencias únicas en los servicios y el asesoramiento, y así, obtener un posicionamiento a nivel internacional en los próximos 3 años.\n\nLograr un posicionamiento como líderes en el mercado cosmetológico colombiano, dando a conocer la cultura de cosmética coreana a través de centros de experiencia únicos y diferenciadores en servicio y asesoramiento; así, continuar con el gran crecimiento y reconocimiento que ha tenido la compañía a nivel internacional en los últimos años",
+              "al": "txtn",
+              "cl": "6",
+              "cl_mb": "12"
+            }
+          },
+          "page_about_us-1": {
+            "type": "1",
+            "settings": {
+              "title": "Calidad",
+              "content": "Excelente calidad en los productos, registros sanitarios y última generación en desarrollo de principios activos.",
+              "al": "txtn",
+              "cl": "6",
+              "cl_mb": "6"
+            }
+          },
+          "page_about_us-3": {
+            "type": "1",
+            "settings": {
+              "title": "Rapidez",
+              "content": "Rápido desarrollo de nuevos productos orientados a nuestro Mercado objetivo.",
+              "al": "txtn",
+              "cl": "6",
+              "cl_mb": "12"
+            }
+          },
+          "1599454194915": {
+            "type": "1",
+            "settings": {
+              "title": "Sofisticado y Divertido",
+              "content": "Empaques divertidos y originales que hacen más llamativos nuestros productos, permitiéndonos ofrecerte lo último en tendencias y productos sofisticados del mercado.",
+              "al": "tc",
+              "cl": "6",
+              "cl_mb": "12"
+            }
+          }
+        },
+        "block_order": [
+          "page_about_us-4",
+          "page_about_us-0",
+          "page_about_us-2",
+          "page_about_us-1",
+          "page_about_us-3",
+          "1599454194915"
+        ],
+        "settings": {}
+      },
+      "faq_heading": {
+        "type": "faq_heading",
+        "blocks": {
+          "faq_heading-0": {
+            "type": "1",
+            "settings": {}
+          }
+        },
+        "block_order": [
+          "faq_heading-0"
+        ],
+        "settings": {
+          "image": "shopify://shop_images/CosmosBG1.png",
+          "parallax": true,
+          "color": "#2e2d4d",
+          "overlay": 80,
+          "padding": 40,
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll"
+        }
+      },
+      "faqs": {
+        "type": "faqs",
+        "blocks": {
+          "faqs-0": {
+            "type": "faq",
+            "settings": {
+              "title": "No veo algunos productos que ya he comprado, ¿Volverán?",
+              "content": "<p>Muchas veces tenemos un producto en venta por una temporada y de un momento a otro no lo vemos más, esto se debe a que en COSMEKA manejamos diferentes marcas innovadoras que buscan reinventarse. </p><p>¡Paciencia! Lo más probable es que sea solo por unos cuantos meses y se lancen nuevamente con diferente imagen o tengamos otros productos con las mismas características.</p>"
+            }
+          },
+          "faqs-1": {
+            "type": "faq",
+            "settings": {
+              "title": "No tengo tarjeta de credito ¿ Puedo comrpar con otro medio de pago?",
+              "content": "<p><strong>En COSMEKA recibimos los siguientes medios de pago:</strong></p><p><strong>-Bancolombia:</strong> si realizas tu pago por consignación en el banco, esta tendrá un costo extra de $12.000 (doce mil pesos) por costos bancarios.</p><p>Si pagas a través de la sucursal virtual, App o PAC de Bancolombia no debes pagar el excedente.</p><p><strong>-En efectivo a través de PayU:</strong> Puedes pagar en efectivo a través de puntos Baloto, Efecty y SuRed. La página generará un código exclusivo por tu pedido y así puedas pagar con total tranquilidad.</p><p><strong>-Pago contra entrega:</strong> En el momento que selecciones esta forma de pago nuestro equipo se comunicará contigo para confirmar tus datos personales. Esta confirmación se realizará en el horario de lunes a sábado de 8:00am a 5:00pm.</p><p>Debes pagar en efectivo directamente al mensajero de la transportadora y tener la cantidad exacta que corresponde al valor de tu pedido.</p><p><strong>-Tarjeta de crédito a través de ePayco.</strong></p>"
+            }
+          },
+          "faqs-2": {
+            "type": "faq",
+            "settings": {
+              "title": "¿Cuales son los medios de pago?",
+              "content": "<p><strong>En nuestra página recibimos los siguientes medios de pago:</strong></p><p><strong>-Bancolombia:</strong> si realizas tu pago por consignación en el banco, esta tendrá un costo extra de $12.000 (doce mil pesos) por costos bancarios.</p><p>Si pagas a través de la sucursal virtual, App o PAC de Bancolombia no debes pagar el excedente.</p><p><strong>-En efectivo a través de PayU:</strong> Puedes pagar en efectivo a través de puntos Baloto, Efecty y SuRed. La página generará un código exclusivo por tu pedido y así puedas pagar con total tranquilidad.</p><p><strong>-Pago contra entrega:</strong> En el momento que selecciones esta forma de pago nuestro equipo se comunicará contigo para confirmar tus datos personales. Esta confirmación se realizará en el horario de lunes a sábado de 8:00am a 5:00pm.</p><p>Debes pagar en efectivo directamente al mensajero de la transportadora y tener la cantidad exacta que corresponde al valor de tu pedido.</p><p><strong>-Tarjeta de crédito a través de ePayco.</strong></p>"
+            }
+          },
+          "faqs-3": {
+            "type": "faq",
+            "settings": {
+              "title": "¿ En cuanto tiempo va llegar mi pedido?",
+              "content": "<p>Nuestro tiempo promedio de entrega es de dos a cinco días hábiles después de la <strong>confirmación del pago</strong>.</p><p>Es importante tener en cuenta:</p><p>• Sí realizaste el pago por transferencia debes enviarnos el comprobante al WhatsApp 📲 316 521 8935 , así lo podremos confirmar e iniciar el proceso de envío.</p><p>*Estas confirmaciones se realizan en el horario de lunes a sábado de 8:00am a 5:00pm.</p><p>• Sino estás en la capital del departamento en el que vives tu paquete va a llegar primero a esta y de allí será remitido a tu ciudad de residencia.</p><p>• Toda compra que realices con medio de pago contra entrega se enviará luego de la confirmación telefónica, esto puede hacer un poco demorado el envío sino se localiza al comprador de forma rápida.<br/> </p>"
+            }
+          },
+          "1599454452745": {
+            "type": "faq",
+            "settings": {
+              "title": "¿ Como puedo rastrear mi pedido?",
+              "content": "<p>Una vez tu pedido sea enviado se te confirmará a tu correo electrónico el número de guía con la transportadora.</p><p>Sino recibes esta confirmación puedes comunicarte con nosotros para solicitar tu número de guía a través de Instagram, Facebook, WhatsApp 📲 316 521 8935 y correo electrónico <a href=\"mailto:info@cosmeka.com\">info@cosmeka.com</a></p>"
+            }
+          },
+          "1599454480366": {
+            "type": "faq",
+            "settings": {
+              "title": "Llegó mi domicilio, pero no había nadie en casa, ¿Podré recibir mi pedido?",
+              "content": "<p>-El mensajero irá 2 veces a la dirección que diste a la hora de hacer tu pedido, si pasadas las 2 visitas nadie recibe el paquete será regresado a nuestra casa matriz.</p><p>*En caso de saber del primer intento fallido de entrega te sugerimos comunicarte con la transportadora teniendo en cuenta tu número de guía para informarte del horario de reparto o pasar directamente a sus oficinas a reclamarlo.</p>"
+            }
+          },
+          "1599454524586": {
+            "type": "faq",
+            "settings": {
+              "title": "¿Puedo acumular los descuentos?",
+              "content": "<p>No, si tienes un bono de descuento que obtuviste inscribiéndote al inicio o en alguno de nuestros eventos este NO será acumulable con otros bonos, cupones o promociones activas de la página web o tiendas.</p>"
+            }
+          },
+          "efaf7a01-36c3-4f23-ad4e-dabf485eefe1": {
+            "type": "faq",
+            "settings": {
+              "title": "¿Qué debo hacer si mi pedido regresa a la casa matriz?",
+              "content": "<p>En este caso se puede recurrir a las siguiente soluciones:</p><p>-Si tu pedido fue regresado a la casa matriz porque nadie lo recibió, se puede acordar un segundo envío, pero los costos de este deben ser asumidos nuevamente por ti como comprador.</p><p>-Si tu pedido fue regresado por un error en la dirección, se puede acordar un segundo envío. El costo del envío será asumido por la parte responsable de este, ya seas tú (comprador) o nosotros (vendedor).</p><p>-Si tu pedido fue regresado a la casa matriz y ya no lo quieres, se generará un bono por el mismo valor de tu compra descontando los gastos de envío para que lo redimas en un próximo pedido.</p>"
+            }
+          },
+          "1599454647280": {
+            "type": "faq",
+            "settings": {
+              "title": "Llegó mi pedido, pero no fue lo que yo solicité, ¿Qué puedo hacer?",
+              "content": "<p>En caso de que te haya llegado el producto que noera, avísanos inmediatamente para ponernos en contacto contigo.</p><p>Nuestro equipo gestionará el envío del productocorrecto y la devolución del equivocado.</p><p>¡Te pedimos que por favor no abras o utilices elproducto que no querías!</p><p> </p>"
+            }
+          }
+        },
+        "block_order": [
+          "faqs-0",
+          "faqs-1",
+          "faqs-2",
+          "faqs-3",
+          "1599454452745",
+          "1599454480366",
+          "1599454524586",
+          "efaf7a01-36c3-4f23-ad4e-dabf485eefe1",
+          "1599454647280"
+        ],
+        "settings": {
+          "auto": true
+        }
+      },
+      "1599500294582": {
+        "type": "featured_collection_owl",
+        "disabled": true,
+        "settings": {
+          "title": "Productos Únicos e Increíbles",
+          "sub_title": "",
+          "sub_font": "2",
+          "btn_title": "See all products",
+          "style_title": "title_7 +la",
+          "ic_tt": "paw",
+          "show_clpr": true,
+          "collection": "serums-y-ampollas",
+          "limit": 8,
+          "space": 30,
+          "use_pagination": "none",
+          "btn_rd": true,
+          "btn_icon": true,
+          "btn_style": "default",
+          "col_pr": "3",
+          "col_pr_tb": "3",
+          "col_pr_mb": "6",
+          "pr_des": "1",
+          "show_vendor": true,
+          "use_cdt": false,
+          "round_cd": false,
+          "cdt_des": "1",
+          "loop": true,
+          "au_time": 0,
+          "au_hover": true,
+          "button": true,
+          "btn_vi": "2",
+          "btn_owl": "1",
+          "btn_color": "3",
+          "dot": true,
+          "dot_owl": "1",
+          "dot_color": "3",
+          "use_eq_height": true,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "hidden": false,
+          "cp_code": false,
+          "layout": "container",
+          "mg": "50px,,50px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "1599967562663": {
+        "type": "featured_collection_owl",
+        "disabled": true,
+        "settings": {
+          "title": "Ofertas de la semana",
+          "sub_title": "",
+          "sub_font": "2",
+          "btn_title": "See all products",
+          "style_title": "title_3",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "collection": "promociones",
+          "limit": 8,
+          "space": 30,
+          "use_pagination": "none",
+          "btn_rd": true,
+          "btn_icon": false,
+          "btn_style": "default",
+          "col_pr": "3",
+          "col_pr_tb": "3",
+          "col_pr_mb": "6",
+          "pr_des": "1 tc",
+          "show_vendor": false,
+          "use_cdt": false,
+          "round_cd": false,
+          "cdt_des": "1",
+          "loop": true,
+          "au_time": 0,
+          "au_hover": true,
+          "button": false,
+          "btn_vi": "1",
+          "btn_owl": "1",
+          "btn_color": "0",
+          "dot": true,
+          "dot_owl": "1",
+          "dot_color": "1",
+          "use_eq_height": true,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "hidden": false,
+          "cp_code": false,
+          "layout": "container",
+          "mg": "50px,,50px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "1599967950636": {
+        "type": "featured_collection_owl",
+        "disabled": true,
+        "settings": {
+          "title": "Kits Especiales",
+          "sub_title": "",
+          "sub_font": "2",
+          "btn_title": "Ver todos los productos",
+          "style_title": "title_3",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "collection": "sets",
+          "limit": 8,
+          "space": 30,
+          "use_pagination": "none",
+          "btn_rd": true,
+          "btn_icon": false,
+          "btn_style": "default",
+          "col_pr": "3",
+          "col_pr_tb": "3",
+          "col_pr_mb": "6",
+          "pr_des": "1",
+          "show_vendor": false,
+          "use_cdt": false,
+          "round_cd": false,
+          "cdt_des": "1",
+          "loop": true,
+          "au_time": 0,
+          "au_hover": true,
+          "button": false,
+          "btn_vi": "1",
+          "btn_owl": "1",
+          "btn_color": "0",
+          "dot": true,
+          "dot_owl": "1",
+          "dot_color": "1",
+          "use_eq_height": true,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "hidden": false,
+          "cp_code": false,
+          "layout": "container",
+          "mg": "50px,,50px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "1599968188748": {
+        "type": "featured_blog",
+        "settings": {
+          "title": "Artículos relacionados sobre Cosmética Coreana",
+          "sub_title": "",
+          "sub_font": "2",
+          "btn_title": "See all posts",
+          "style_title": "title_7 +la",
+          "ic_tt": "star",
+          "show_clpr": true,
+          "layout_des": "2",
+          "art_des": "2",
+          "blog": "noticias",
+          "limit": 8,
+          "use_pagination": "view-all",
+          "use_bar_lm": true,
+          "btn_rd": true,
+          "btn_icon": false,
+          "btn_style": "default",
+          "date": "date",
+          "col_pr": "4",
+          "col_pr_tb": "4",
+          "col_pr_mb": "12",
+          "typetitle2": "h3",
+          "show_cnt": true,
+          "show_au": false,
+          "show_dt": false,
+          "show_cm": false,
+          "show_rm": false,
+          "loop": false,
+          "au_time": 0,
+          "au_hover": true,
+          "button": false,
+          "btn_vi": "1",
+          "btn_owl": "1",
+          "btn_color": "3",
+          "dot": true,
+          "dot_owl": "1",
+          "dot_color": "3",
+          "use_eq_height": true,
+          "image_ratio": "ratio4_3",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "layout": "container",
+          "cl_bg": "#ffffff",
+          "mg": "50px,,50px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "header_9": {
+        "type": "header_9",
+        "blocks": {
+          "d4d612e0-dd30-4a3b-8f9f-421526c2a919": {
+            "type": "mega",
+            "settings": {
+              "title": "Categorías",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": true,
+              "cl": "#f88181",
+              "lb": "",
+              "lb_cl": "rgba(0,0,0,0)",
+              "pos": "center",
+              "wid": "cus",
+              "cus_wid": 1200
+            }
+          },
+          "b604789a-7d69-4253-b97b-d1f06c6826dd": {
+            "type": "link",
+            "settings": {
+              "tt_hd": "Doble Limpieza",
+              "url": "shopify://collections/limpieza",
+              "open_link": "_self",
+              "menu": "limpieza",
+              "col": "4"
+            }
+          },
+          "04e941b7-e3d7-41e1-ae44-4de7c567084b": {
+            "type": "link",
+            "settings": {
+              "tt_hd": "Mascarillas",
+              "url": "shopify://collections/mascarillas",
+              "open_link": "_self",
+              "menu": "mascarillas",
+              "col": "4"
+            }
+          },
+          "a03a6814-1d44-45a0-b454-46e380ab99ae": {
+            "type": "link",
+            "settings": {
+              "tt_hd": "Hidratantes",
+              "url": "shopify://collections/hidratante",
+              "open_link": "_self",
+              "menu": "hidratantes",
+              "col": "4"
+            }
+          },
+          "4ed23932-86a6-4ca2-8009-66ed054a7661": {
+            "type": "link",
+            "settings": {
+              "tt_hd": "Tratamientos",
+              "url": "shopify://collections/tratamientos",
+              "open_link": "_self",
+              "menu": "tratamientos",
+              "col": "4"
+            }
+          },
+          "fcea8d16-c24f-45df-b302-e5c4bc111fd3": {
+            "type": "link2",
+            "settings": {
+              "col": "4",
+              "menu": "protector-solar"
+            }
+          },
+          "b18c1c95-be16-41e4-8820-d7c7d1914ad1": {
+            "type": "link2",
+            "settings": {
+              "col": "4",
+              "menu": "tonicos"
+            }
+          },
+          "e74bd1d2-9792-446e-97c4-a5abb7d19e88": {
+            "type": "link2",
+            "settings": {
+              "col": "4",
+              "menu": "exfoliantes"
+            }
+          },
+          "967400dd-a046-4c6f-9846-25ce4d3931d9": {
+            "type": "dropdown",
+            "settings": {
+              "title": "Necesidades de la piel",
+              "open_link": "_self",
+              "menu": "necesidades-de-la-piel",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "rgba(0,0,0,0)",
+              "pos": "right"
+            }
+          },
+          "ea903fe8-9667-4cb6-bb19-0c9a789797c8": {
+            "type": "dropdown",
+            "settings": {
+              "title": "Marcas",
+              "open_link": "_self",
+              "menu": "marcas",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "rgba(0,0,0,0)",
+              "pos": "right"
+            }
+          },
+          "09b2be29-6f14-4154-900a-f74f8bff0dae": {
+            "type": "dropdown",
+            "settings": {
+              "title": "Blog",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "rgba(0,0,0,0)",
+              "pos": "right"
+            }
+          },
+          "header_9-0": {
+            "type": "simple",
+            "settings": {
+              "title": "¡Promociones!",
+              "url": "shopify://collections/promociones",
+              "open_link": "_self",
+              "icon": "Diam",
+              "cus_cl": false,
+              "cl": "#d57f8a",
+              "lb": "Sale",
+              "lb_cl": "#f88181"
+            }
+          },
+          "2d63a0e0-6dd1-4632-b98e-a4c551c1be2a": {
+            "type": "simple",
+            "settings": {
+              "title": "Fun Box",
+              "url": "shopify://collections/productos-divertidos-fun-products",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#d57f8a",
+              "lb": "Pack",
+              "lb_cl": "#696969"
+            }
+          }
+        },
+        "block_order": [
+          "d4d612e0-dd30-4a3b-8f9f-421526c2a919",
+          "b604789a-7d69-4253-b97b-d1f06c6826dd",
+          "04e941b7-e3d7-41e1-ae44-4de7c567084b",
+          "a03a6814-1d44-45a0-b454-46e380ab99ae",
+          "4ed23932-86a6-4ca2-8009-66ed054a7661",
+          "fcea8d16-c24f-45df-b302-e5c4bc111fd3",
+          "b18c1c95-be16-41e4-8820-d7c7d1914ad1",
+          "e74bd1d2-9792-446e-97c4-a5abb7d19e88",
+          "967400dd-a046-4c6f-9846-25ce4d3931d9",
+          "ea903fe8-9667-4cb6-bb19-0c9a789797c8",
+          "09b2be29-6f14-4154-900a-f74f8bff0dae",
+          "header_9-0",
+          "2d63a0e0-6dd1-4632-b98e-a4c551c1be2a"
+        ],
+        "settings": {
+          "height": 92,
+          "arrow": true,
+          "align": "tc",
+          "hover": "hover_fade_in"
+        }
+      },
+      "header_10": {
+        "type": "header_10",
+        "settings": {
+          "height": 80
+        }
+      },
+      "header_1": {
+        "type": "header_1",
+        "settings": {
+          "height": 62
+        }
+      },
+      "header_3": {
+        "type": "header_3",
+        "blocks": {
+          "header_3-0": {
+            "type": "simple",
+            "settings": {
+              "title": "Heading 1",
+              "url": "#",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "rgba(0,0,0,0)"
+            }
+          },
+          "header_3-1": {
+            "type": "simple",
+            "settings": {
+              "title": "Heading 2",
+              "url": "#",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "rgba(0,0,0,0)"
+            }
+          }
+        },
+        "block_order": [
+          "header_3-0",
+          "header_3-1"
+        ],
+        "settings": {
+          "height": 62,
+          "arrow": false,
+          "align": "tc",
+          "hover": "hover_side_up"
+        }
+      },
+      "160436773844018675": {
+        "type": "collection-list_packery",
+        "blocks": {
+          "1604367738ad766018-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "rutinas-de-cuidado-facial",
+              "image": "shopify://shop_images/159523373_5259912697384504_8098754966268667579_n.jpg",
+              "img_align": "center",
+              "title": "hide_title"
+            }
+          },
+          "1604367738ad766018-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "esencias",
+              "image": "shopify://shop_images/BANNERS-ESENCIA2.jpg",
+              "img_align": "center",
+              "title": "hide_title"
+            }
+          },
+          "45dd8325-9741-4fc6-b22f-5f7030222ad6": {
+            "type": "collection",
+            "settings": {
+              "collection": "serums-y-ampollas",
+              "image": "shopify://shop_images/BANNERS-02_16976e3e-3c0e-4bc7-adde-619b6119cc96.jpg",
+              "img_align": "center",
+              "title": ""
+            }
+          }
+        },
+        "block_order": [
+          "1604367738ad766018-0",
+          "1604367738ad766018-1",
+          "45dd8325-9741-4fc6-b22f-5f7030222ad6"
+        ],
+        "settings": {
+          "title": "Cosmética Coreana",
+          "sub_title": "",
+          "sub_font": "1",
+          "style_title": "title_7 +la",
+          "ic_tt": "star",
+          "show_clpr": true,
+          "hoverz": true,
+          "cat_design": "1",
+          "cat_space": "30",
+          "pr_txt": "",
+          "cat_lay4": 1,
+          "cat_lay5": 1,
+          "hidden": false,
+          "cp_code": false,
+          "layout": "container",
+          "mg": "50px,,50px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "16043720426b87a70d": {
+        "type": "brand_list",
+        "blocks": {
+          "10dcec21-deef-46f6-9c2c-61efd5c04cf5": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify://shop_images/iconos_GRIS-07.jpg",
+              "url": "shopify://collections/tonicos-y-emulsiones",
+              "title_brand": "",
+              "type_title_brand": "h3",
+              "visible_title_brand": true,
+              "description_brand": "",
+              "open_link": "_self"
+            }
+          },
+          "1604372042866930d5-3": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify://shop_images/iconos_GRIS-02.jpg",
+              "url": "shopify://collections/mascarillas",
+              "title_brand": "",
+              "type_title_brand": "h3",
+              "visible_title_brand": true,
+              "description_brand": "",
+              "open_link": "_self"
+            }
+          },
+          "1604372042866930d5-1": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify://shop_images/iconos_GRIS-04.jpg",
+              "url": "shopify://collections/limpiadoras-y-desmaquillantes",
+              "title_brand": "",
+              "type_title_brand": "h3",
+              "visible_title_brand": true,
+              "description_brand": "",
+              "open_link": "_self"
+            }
+          },
+          "1604372042866930d5-4": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify://shop_images/iconos_GRIS-01.jpg",
+              "url": "shopify://collections/serums-y-ampollas",
+              "title_brand": "",
+              "type_title_brand": "h3",
+              "visible_title_brand": true,
+              "description_brand": "",
+              "open_link": "_self"
+            }
+          },
+          "1604372042866930d5-2": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify://shop_images/iconos_GRIS-05.jpg",
+              "url": "shopify://collections/tonicos-y-emulsiones",
+              "title_brand": "",
+              "type_title_brand": "h3",
+              "visible_title_brand": true,
+              "description_brand": "",
+              "open_link": "_self"
+            }
+          },
+          "1604372042866930d5-5": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify://shop_images/iconos_GRIS-03.jpg",
+              "url": "shopify://collections/cremas",
+              "title_brand": "",
+              "type_title_brand": "h3",
+              "visible_title_brand": true,
+              "description_brand": "",
+              "open_link": "_self"
+            }
+          },
+          "1604372042866930d5-0": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify://shop_images/iconos_GRIS-06.jpg",
+              "url": "shopify://collections/protector-solar",
+              "title_brand": "",
+              "type_title_brand": "h3",
+              "visible_title_brand": true,
+              "description_brand": "",
+              "open_link": "_self"
+            }
+          }
+        },
+        "block_order": [
+          "10dcec21-deef-46f6-9c2c-61efd5c04cf5",
+          "1604372042866930d5-3",
+          "1604372042866930d5-1",
+          "1604372042866930d5-4",
+          "1604372042866930d5-2",
+          "1604372042866930d5-5",
+          "1604372042866930d5-0"
+        ],
+        "disabled": true,
+        "settings": {
+          "title": "Todo Lo que necesitas",
+          "sub_title": "",
+          "sub_font": "2",
+          "style_title": "title_9",
+          "ic_tt": "",
+          "show_clpr": false,
+          "brand_layout": "2",
+          "cat_space": "30",
+          "col": "2",
+          "col_md": "6",
+          "col_mb": "6",
+          "brand_hover": "2",
+          "loop": true,
+          "autoplay": false,
+          "au_time": 0,
+          "au_hover": true,
+          "button": true,
+          "btn_vi": "2",
+          "btn_owl": "1",
+          "btn_color": "0",
+          "dot": true,
+          "dot_owl": "2",
+          "dot_color": "1",
+          "layout": "container",
+          "cl_bg": "#ffffff",
+          "mg": "",
+          "pd": "5px,,5px,",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "pr-sidebar": {
+        "type": "pr-sidebar",
+        "blocks": {
+          "pr-sidebar-0": {
+            "type": "shipping",
+            "settings": {
+              "title": "",
+              "shipping_1": "truck, Envío rápido y gratuito,\nEnvío gratuito por compras superiores a $120.000",
+              "shipping_2": "headset, Atención al cliente, Te resolvemos todas tus dudas con un especialista.",
+              "shipping_3": "pe-7s-door-lock, Compras Seguras ,Respaldamos tus compras con nuestros aliados.",
+              "shipping_4": "",
+              "shipping_5": "",
+              "shipping_6": ""
+            }
+          },
+          "2f42bdb0-715d-4d12-af0f-6d83a6d0d653": {
+            "type": "instagram2",
+            "disabled": true,
+            "settings": {
+              "title": "Instagram",
+              "limit": 6,
+              "open_link": "_blank",
+              "space": "2",
+              "rounded_ins": "0",
+              "col_pr": "4",
+              "col_pr_tb": "4",
+              "col_pr_mb": "4"
+            }
+          }
+        },
+        "block_order": [
+          "pr-sidebar-0",
+          "2f42bdb0-715d-4d12-af0f-6d83a6d0d653"
+        ],
+        "settings": {}
+      },
+      "16044109261f1ad2a1": {
+        "type": "shipping",
+        "blocks": {
+          "1604410926acccad5e-0": {
+            "type": "shipping",
+            "settings": {
+              "icon": "las la-shipping-fast",
+              "title": "ENVIOS GRATUITOS",
+              "text": "Envíos Gratis por compras mayores a $200.000"
+            }
+          },
+          "1604410926acccad5e-1": {
+            "type": "shipping",
+            "settings": {
+              "icon": "las la-tag",
+              "title": "PRODUCTOS 100% ORIGINALES",
+              "text": "Revisa nuestra comunidad."
+            }
+          },
+          "1604410926acccad5e-2": {
+            "type": "shipping",
+            "settings": {
+              "icon": "las la-paw",
+              "title": "PRODUCTOS CRUELTY FREE",
+              "text": "Certificado PETA, libres de crueldad animal"
+            }
+          },
+          "1604410926acccad5e-3": {
+            "type": "shipping",
+            "settings": {
+              "icon": "las la-user-shield",
+              "title": "100% PAGO SEGURO",
+              "text": "Pagos seguros  en todas tus compras."
+            }
+          }
+        },
+        "block_order": [
+          "1604410926acccad5e-0",
+          "1604410926acccad5e-1",
+          "1604410926acccad5e-2",
+          "1604410926acccad5e-3"
+        ],
+        "custom_css": [
+          "h3 {font-size: 20px; letter-spacing: 2px;}",
+          "p {font-size: 18px; font-weight: 300; color: black;}"
+        ],
+        "settings": {
+          "source": "laic",
+          "title_sz": 18,
+          "icon_des": "deafult",
+          "icon_align": "tc",
+          "icon_size": "large",
+          "col_pr": "3",
+          "col_pr_tb": "6",
+          "col_mb": "fl_wrap",
+          "border": true,
+          "layout": "container",
+          "cl_bd": "#878787",
+          "cl_bg": "#ffffff",
+          "cl_ic": "#222222",
+          "cl_hd": "#000000",
+          "cl_cot": "#878787",
+          "mg": "50px,,,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "16049814829d8d9357": {
+        "type": "banner2",
+        "blocks": {
+          "16049814830e0a3ea3-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/CASA-FEED.png",
+              "url": "shopify://collections/kits",
+              "open_link": "_self",
+              "col_pr": "6",
+              "col_pr_tb": "6",
+              "col_pr_mb": "12",
+              "html": "",
+              "cap_v_pos": 50,
+              "cap_h_pos": 50,
+              "txt_align": "tc",
+              "cl_txt": "#ffffff",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0
+            }
+          },
+          "16049814830e0a3ea3-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/CASA-FEED-2.png",
+              "url": "shopify://collections/tonicos-y-emulsiones",
+              "open_link": "_self",
+              "col_pr": "6",
+              "col_pr_tb": "6",
+              "col_pr_mb": "12",
+              "html": "",
+              "cap_v_pos": 50,
+              "cap_h_pos": 50,
+              "txt_align": "tc",
+              "cl_txt": "#ffffff",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0
+            }
+          }
+        },
+        "block_order": [
+          "16049814830e0a3ea3-0",
+          "16049814830e0a3ea3-1"
+        ],
+        "disabled": true,
+        "settings": {
+          "title": "",
+          "sub_title": "",
+          "sub_font": "2",
+          "style_title": "title_1",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "cat_space": "30",
+          "hoverz": true,
+          "layout": "container",
+          "cl_bg": "#000000",
+          "mg": "50px",
+          "pd": "2px",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "newsletter_pp": {
+        "type": "newsletter_pp",
+        "blocks": {
+          "newsletter_pp-0": {
+            "type": "img",
+            "settings": {
+              "image": "shopify://shop_images/POP_UP_OKIIIDOKI-01.png"
+            }
+          },
+          "newsletter_pp-1": {
+            "type": "content",
+            "settings": {
+              "title": "¿Quieres tenerlo?",
+              "sub": "",
+              "newl_des": "3",
+              "btn_icon": false,
+              "txt": ".",
+              "btn_ck": true,
+              "txt2": "No volver a mostrar"
+            }
+          }
+        },
+        "block_order": [
+          "newsletter_pp-0",
+          "newsletter_pp-1"
+        ],
+        "settings": {
+          "des": "1",
+          "fix_h": false,
+          "fix_h_mb": false,
+          "mb": true,
+          "index": true,
+          "product": false,
+          "collection": false,
+          "article": false,
+          "blog": false,
+          "cart": false,
+          "page": false,
+          "number_pages": 0,
+          "pp_version": 1,
+          "day_next": 7,
+          "after": "scroll",
+          "time_delay": 2,
+          "scroll_delay": 800
+        }
+      },
+      "password": {
+        "type": "password",
+        "settings": {
+          "use_platform": false,
+          "heading": "",
+          "content": "",
+          "newsletter_placeholder": "",
+          "newsletter_button_text": "",
+          "signup_form_success": "ico justo antes del lanzamiento!",
+          "social": "0"
+        }
+      },
+      "1606407724ad4ff501": {
+        "type": "maestrooo-instagram",
+        "settings": {
+          "title": "Síguenos en Instagram @cosmeka.co",
+          "subheading": "",
+          "button_text": "",
+          "button_link": "",
+          "layout": "grid",
+          "image_size": "small",
+          "full_width": true,
+          "add_spacing": false,
+          "rows_count": 1,
+          "show_author": false,
+          "show_caption": true,
+          "show_date": true,
+          "click_action": "open_instagram",
+          "heading_color": "#000000",
+          "subheading_color": "#000000",
+          "button_background": "#000000",
+          "button_color": "#ffffff",
+          "overlay_color": "#000000",
+          "overlay_text_color": "#ffffff",
+          "overlay_opacity": 65
+        }
+      },
+      "contact_heading": {
+        "type": "contact_heading",
+        "blocks": {
+          "contact_heading-0": {
+            "type": "1",
+            "settings": {}
+          }
+        },
+        "block_order": [
+          "contact_heading-0"
+        ],
+        "settings": {
+          "image": "shopify://shop_images/CosmosBG1.png",
+          "parallax": true,
+          "color": "#dd5577",
+          "overlay": 80,
+          "padding": 40,
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll"
+        }
+      },
+      "16130795483fe5abf4": {
+        "type": "brand_list",
+        "blocks": {
+          "16130795501b84226f-1": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify://shop_images/12334-02.jpg",
+              "url": "https://www.cosmeka.com/search?type=product&options%5Bunavailable_products%5D=last&options%5Bprefix%5D=none&q=piel%20mixta*",
+              "title_brand": "Piel Mixta",
+              "type_title_brand": "h3",
+              "visible_title_brand": true,
+              "description_brand": "",
+              "open_link": "_blank"
+            }
+          },
+          "16130795501b84226f-2": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify://shop_images/1_Mesa_de_trabajo_1.jpg",
+              "url": "https://www.cosmeka.com/search?type=product&options%5Bunavailable_products%5D=last&options%5Bprefix%5D=none&q=piel%20grasa*",
+              "title_brand": "Piel Grasa",
+              "type_title_brand": "h3",
+              "visible_title_brand": true,
+              "description_brand": "",
+              "open_link": "_blank"
+            }
+          },
+          "16130795501b84226f-3": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify://shop_images/5-03.jpg",
+              "url": "https://www.cosmeka.com/search?type=product&options%5Bunavailable_products%5D=last&options%5Bprefix%5D=none&q=piel%20seca*",
+              "title_brand": "Piel Seca",
+              "type_title_brand": "h3",
+              "visible_title_brand": true,
+              "description_brand": "",
+              "open_link": "_blank"
+            }
+          },
+          "16130795501b84226f-4": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify://shop_images/88-04.jpg",
+              "url": "https://www.cosmeka.com/search?type=product&options%5Bunavailable_products%5D=last&options%5Bprefix%5D=none&q=acn%C3%A9*",
+              "title_brand": "Piel con Acné",
+              "type_title_brand": "h3",
+              "visible_title_brand": true,
+              "description_brand": "",
+              "open_link": "_blank"
+            }
+          }
+        },
+        "block_order": [
+          "16130795501b84226f-1",
+          "16130795501b84226f-2",
+          "16130795501b84226f-3",
+          "16130795501b84226f-4"
+        ],
+        "settings": {
+          "title": "Productos para todo tipo de piel",
+          "sub_title": "",
+          "sub_font": "1",
+          "style_title": "title_7 +la",
+          "ic_tt": "star",
+          "show_clpr": false,
+          "brand_layout": "1",
+          "cat_space": "30",
+          "col": "3",
+          "col_md": "6",
+          "col_mb": "6",
+          "brand_hover": "2",
+          "loop": false,
+          "autoplay": false,
+          "au_time": 0,
+          "au_hover": true,
+          "button": false,
+          "btn_vi": "1",
+          "btn_owl": "3",
+          "btn_color": "0",
+          "dot": true,
+          "dot_owl": "1",
+          "dot_color": "1",
+          "layout": "container",
+          "cl_bg": "",
+          "mg": "10px,,10px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "acc_heading": {
+        "type": "acc_heading",
+        "blocks": {
+          "acc_heading-0": {
+            "type": "1",
+            "settings": {}
+          }
+        },
+        "block_order": [
+          "acc_heading-0"
+        ],
+        "settings": {
+          "image": "shopify://shop_images/CosmosBG1.png",
+          "parallax": true,
+          "color": "#000",
+          "overlay": 54,
+          "padding": 50,
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll"
+        }
+      },
+      "1614804668db3c1425": {
+        "type": "slideshow",
+        "blocks": {
+          "img_id6HFX": {
+            "type": "img",
+            "settings": {
+              "image": "shopify://shop_images/cosmetics.jpg",
+              "image_mb": "shopify://shop_images/cosmetics.jpg",
+              "pos_img": "center center",
+              "cl_img": "",
+              "link_img1": "https://www.cosmeka.com/products/parche-hidratante-de-labios-kiss-kiss-lovely-lip-patch?_pos=2&_sid=647c72021&_ss=r",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none"
+            }
+          },
+          "133f7382-8f2a-4805-95cd-8bf8ad179f8c": {
+            "type": "img",
+            "disabled": true,
+            "settings": {
+              "image": "shopify://shop_images/BANNERS_Mesa_de_trabajo_1_35f670f4-161e-4b8b-8c66-d3253fc608d9.jpg",
+              "image_mb": "shopify://shop_images/BANNERS-02_e69f0851-cc99-485d-8d06-6f7f5e2bc59e.jpg",
+              "pos_img": "center center",
+              "cl_img": "",
+              "link_img1": "https://www.cosmeka.com/search?type=product&options%5Bunavailable_products%5D=last&options%5Bprefix%5D=none&q=super%20aqua*",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none"
+            }
+          },
+          "ab978017-4ad0-4337-8e69-a935894de813": {
+            "type": "img",
+            "disabled": true,
+            "settings": {
+              "image": "shopify://shop_images/OCEANNEMASCARILLA1_6097499c-012a-4994-9885-8d4b4703c474.jpg",
+              "image_mb": "shopify://shop_images/OCEANNEMASCARILLA.jpg",
+              "pos_img": "center center",
+              "cl_img": "",
+              "link_img1": "https://www.cosmeka.com/collections/oceanne",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none"
+            }
+          },
+          "f30a097f-0e5f-4d01-a5e3-ade831c95ce0": {
+            "type": "img",
+            "disabled": true,
+            "settings": {
+              "image": "shopify://shop_images/BANNERS_MARCAS-15.jpg",
+              "image_mb": "shopify://shop_images/BANNERS_MARCAS-17.jpg",
+              "pos_img": "center center",
+              "cl_img": "",
+              "link_img1": "https://www.cosmeka.com/collections/nature-republic",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none"
+            }
+          },
+          "b9ec1492-e719-4a96-b390-1875dc880b6e": {
+            "type": "img",
+            "disabled": true,
+            "settings": {
+              "image": "shopify://shop_images/BANNERS-01_494b0d32-9bfe-4962-bea3-a293555883b3.jpg",
+              "image_mb": "shopify://shop_images/BANNERS-02_c735604a-5560-4f4c-8196-907aeac50eab.jpg",
+              "pos_img": "center center",
+              "cl_img": "",
+              "link_img1": "https://www.cosmeka.com/products/kit-pure-cherry?_pos=1&_sid=6d01ec6a9&_ss=r",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none"
+            }
+          }
+        },
+        "block_order": [
+          "img_id6HFX",
+          "133f7382-8f2a-4805-95cd-8bf8ad179f8c",
+          "ab978017-4ad0-4337-8e69-a935894de813",
+          "f30a097f-0e5f-4d01-a5e3-ade831c95ce0",
+          "b9ec1492-e719-4a96-b390-1875dc880b6e"
+        ],
+        "settings": {
+          "se_height": "adapt",
+          "use_custom_h": "1",
+          "h_des": "600px",
+          "h_tb": "500px",
+          "h_mb": "350px",
+          "effect": "1",
+          "loop": true,
+          "autoplay": true,
+          "au_time": 6,
+          "au_hover": true,
+          "button": false,
+          "btn_vi": "1",
+          "btn_owl": "1",
+          "btn_color": "0",
+          "dot": true,
+          "dot_owl": "1",
+          "dot_color": "1",
+          "layout": "nt_full",
+          "cl_bg": "",
+          "mg": ",,50px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "16371742810a01a964": {
+        "type": "tab_collection",
+        "blocks": {
+          "16371742810a01a964-0": {
+            "type": "collection",
+            "settings": {
+              "title": "Corporal",
+              "collection": "corporal",
+              "limit": 4,
+              "space": 30,
+              "use_pagination": "none",
+              "use_bar_lm": true,
+              "btn_rd": true,
+              "btn_icon": false,
+              "btn_style": "default",
+              "col_pr": "3",
+              "col_pr_tb": "3",
+              "col_pr_mb": "6",
+              "pr_des": "1",
+              "show_vendor": false,
+              "use_cdt": false,
+              "round_cd": false,
+              "cdt_des": "1",
+              "use_eq_height": false,
+              "image_ratio": "ratio_nt",
+              "image_size": "nt_cover",
+              "image_position": "8"
+            }
+          },
+          "16371742810a01a964-1": {
+            "type": "collection",
+            "settings": {
+              "title": "",
+              "collection": "mascarilla-en-velo",
+              "limit": 4,
+              "space": 30,
+              "use_pagination": "none",
+              "use_bar_lm": true,
+              "btn_rd": true,
+              "btn_icon": false,
+              "btn_style": "default",
+              "col_pr": "3",
+              "col_pr_tb": "3",
+              "col_pr_mb": "6",
+              "pr_des": "1",
+              "show_vendor": false,
+              "use_cdt": false,
+              "round_cd": false,
+              "cdt_des": "1",
+              "use_eq_height": false,
+              "image_ratio": "ratio_nt",
+              "image_size": "nt_cover",
+              "image_position": "8"
+            }
+          },
+          "16371742810a01a964-2": {
+            "type": "collection",
+            "settings": {
+              "title": "",
+              "collection": "sleeping-masks",
+              "limit": 4,
+              "space": 30,
+              "use_pagination": "none",
+              "use_bar_lm": true,
+              "btn_rd": true,
+              "btn_icon": false,
+              "btn_style": "default",
+              "col_pr": "3",
+              "col_pr_tb": "3",
+              "col_pr_mb": "6",
+              "pr_des": "1",
+              "show_vendor": false,
+              "use_cdt": false,
+              "round_cd": false,
+              "cdt_des": "1",
+              "use_eq_height": false,
+              "image_ratio": "ratio_nt",
+              "image_size": "nt_cover",
+              "image_position": "8"
+            }
+          }
+        },
+        "block_order": [
+          "16371742810a01a964-0",
+          "16371742810a01a964-1",
+          "16371742810a01a964-2"
+        ],
+        "settings": {
+          "title": "Complementos de rutina perfectos",
+          "sub_title": "",
+          "sub_font": "1",
+          "style_title": "title_7 +la",
+          "ic_tt": "star",
+          "show_clpr": false,
+          "des_tab": "5",
+          "layout": "container",
+          "mg": "",
+          "pd": "10px,,10px,",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "1637175808bd77e5e0": {
+        "type": "featured_collection_owl",
+        "settings": {
+          "title": "Descuentos Imperdibles",
+          "sub_title": "",
+          "sub_font": "1",
+          "btn_title": "See all products",
+          "style_title": "title_7 +la",
+          "ic_tt": "star",
+          "show_clpr": false,
+          "collection": "promociones",
+          "limit": 5,
+          "space": 20,
+          "use_pagination": "none",
+          "btn_rd": false,
+          "btn_icon": false,
+          "btn_style": "primary",
+          "col_pr": "15",
+          "col_pr_tb": "3",
+          "col_pr_mb": "6",
+          "pr_des": "1",
+          "show_vendor": false,
+          "use_cdt": true,
+          "round_cd": true,
+          "cdt_des": "3",
+          "loop": true,
+          "au_time": 0,
+          "au_hover": true,
+          "button": false,
+          "btn_vi": "1",
+          "btn_owl": "1",
+          "btn_color": "0",
+          "dot": false,
+          "dot_owl": "1",
+          "dot_color": "1",
+          "use_eq_height": false,
+          "image_ratio": "ratio4_3",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "hidden": false,
+          "cp_code": false,
+          "layout": "container",
+          "mg": "5px,,5px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "custom_html_MqWKk6": {
+        "type": "custom_html",
+        "custom_css": [],
+        "settings": {
+          "code": "<div class=\"slider\">\n \t\t<div class=\"slide-track\">\n \t\t\t<div class=\"slide\">\n \t\t\t\t<img src=\"https://www.cosmeka.com/cdn/shop/files/holika1_360x.png?v=1613705190\" alt=\"Holika\">\n \t\t\t</div>\n \t\t\t<div class=\"slide\">\n \t\t\t\t<img src=\"https://www.cosmeka.com/cdn/shop/files/nature1_360x.png?v=1613705189\" alt=\"Nature Republic\">\n \t\t\t</div>\n \t\t\t<div class=\"slide\">\n \t\t\t\t<img src=\"https://www.cosmeka.com/cdn/shop/files/itsSkin1_360x.png?v=1613705189\" alt=\"It's Skin\">\n \t\t\t</div>\n \t\t\t<div class=\"slide\">\n \t\t\t\t<img src=\"https://www.cosmeka.com/cdn/shop/files/innisfree1_360x.png?v=1613705189\" alt=\"Innisfree\">\n \t\t\t</div>\n \t\t\t<div class=\"slide\">\n \t\t\t\t<img src=\"https://www.cosmeka.com/cdn/shop/files/etude_360x.png?v=1613705190\" alt=\"Etude House\">\n \t\t\t</div>\n \t\t\t<div class=\"slide\">\n \t\t\t\t<img src=\"https://www.cosmeka.com/cdn/shop/files/missha-new_360x.png?v=1613705526\" alt=\"Missha\">\n \t\t\t</div>\n \t\t\t<div class=\"slide\">\n \t\t\t\t<img src=\"https://www.cosmeka.com/cdn/shop/files/tonymoly_360x.png?v=1613705200\" alt=\"TONYMOLY\">\n \t\t\t</div>\n \t\t\t<div class=\"slide\">\n \t\t\t\t<img src=\"https://www.cosmeka.com/cdn/shop/files/oceanne1_360x.png?v=1613705200\" alt=\"Oceanne\">\n \t\t\t</div>\n \t\t\t\n \t\t\t\n \t\t\t<div class=\"slide\">\n \t\t\t\t<img src=\"https://www.cosmeka.com/cdn/shop/files/holika1_360x.png?v=1613705190\" alt=\"Holika\">\n \t\t\t</div>\n \t\t\t<div class=\"slide\">\n \t\t\t\t<img src=\"https://www.cosmeka.com/cdn/shop/files/nature1_360x.png?v=1613705189\" alt=\"Nature Republic\">\n \t\t\t</div>\n \t\t\t<div class=\"slide\">\n \t\t\t\t<img src=\"https://www.cosmeka.com/cdn/shop/files/itsSkin1_360x.png?v=1613705189\" alt=\"It's Skin\">\n \t\t\t</div>\n \t\t\t<div class=\"slide\">\n \t\t\t\t<img src=\"https://www.cosmeka.com/cdn/shop/files/innisfree1_360x.png?v=1613705189\" alt=\"Innisfree\">\n \t\t\t</div>\n \t\t\t<div class=\"slide\">\n \t\t\t\t<img src=\"https://www.cosmeka.com/cdn/shop/files/etude_360x.png?v=1613705190\" alt=\"Etude House\">\n \t\t\t</div>\n \t\t\t<div class=\"slide\">\n \t\t\t\t<img src=\"https://www.cosmeka.com/cdn/shop/files/missha-new_360x.png?v=1613705526\" alt=\"Missha\">\n \t\t\t</div>\n \t\t\t<div class=\"slide\">\n \t\t\t\t<img src=\"https://www.cosmeka.com/cdn/shop/files/tonymoly_360x.png?v=1613705200\" alt=\"TONYMOLY\">\n \t\t\t</div>\n \t\t\t<div class=\"slide\">\n \t\t\t\t<img src=\"https://www.cosmeka.com/cdn/shop/files/oceanne1_360x.png?v=1613705200\" alt=\"Oceanne\">\n \t\t\t</div>\n\n\n \t\t\t<div class=\"slide\">\n \t\t\t\t<img src=\"https://www.cosmeka.com/cdn/shop/files/holika1_360x.png?v=1613705190\" alt=\"Holika\">\n \t\t\t</div>\n \t\t\t<div class=\"slide\">\n \t\t\t\t<img src=\"https://www.cosmeka.com/cdn/shop/files/nature1_360x.png?v=1613705189\" alt=\"Nature Republic\">\n \t\t\t</div>\n \t\t\t<div class=\"slide\">\n \t\t\t\t<img src=\"https://www.cosmeka.com/cdn/shop/files/itsSkin1_360x.png?v=1613705189\" alt=\"It's Skin\">\n \t\t\t</div>\n \t\t\t<div class=\"slide\">\n \t\t\t\t<img src=\"https://www.cosmeka.com/cdn/shop/files/innisfree1_360x.png?v=1613705189\" alt=\"Innisfree\">\n \t\t\t</div>\n \t\t\t<div class=\"slide\">\n \t\t\t\t<img src=\"https://www.cosmeka.com/cdn/shop/files/etude_360x.png?v=1613705190\" alt=\"Etude House\">\n \t\t\t</div>\n \t\t\t<div class=\"slide\">\n \t\t\t\t<img src=\"https://www.cosmeka.com/cdn/shop/files/missha-new_360x.png?v=1613705526\" alt=\"Missha\">\n \t\t\t</div>\n \t\t\t<div class=\"slide\">\n \t\t\t\t<img src=\"https://www.cosmeka.com/cdn/shop/files/tonymoly_360x.png?v=1613705200\" alt=\"TONYMOLY\">\n \t\t\t</div>\n \t\t\t<div class=\"slide\">\n \t\t\t\t<img src=\"https://www.cosmeka.com/cdn/shop/files/oceanne1_360x.png?v=1613705200\" alt=\"Oceanne\">\n \t\t\t</div>\n \t\t</div>\n \t</div>",
+          "layout": "container",
+          "mg": "0px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "banner2_V9WpPH": {
+        "type": "banner2",
+        "blocks": {
+          "image_Y6UH9h": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/3_cuotas.jpg",
+              "url": "",
+              "open_link": "_self",
+              "col_pr": "12",
+              "col_pr_tb": "12",
+              "col_pr_mb": "12",
+              "html": "",
+              "cap_v_pos": 50,
+              "cap_h_pos": 50,
+              "txt_align": "tc",
+              "cl_txt": "#ffffff",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0
+            }
+          }
+        },
+        "block_order": [
+          "image_Y6UH9h"
+        ],
+        "settings": {
+          "title": "",
+          "sub_title": "",
+          "sub_font": "2",
+          "style_title": "title_1",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "cat_space": "30",
+          "hoverz": true,
+          "layout": "nt_full",
+          "cl_bg": "",
+          "mg": "50px,,50px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "custom_html_i3aja9": {
+        "type": "custom_html",
+        "custom_css": [
+          ".tt_divider i {color: #c7bce8 !important;}"
+        ],
+        "settings": {
+          "code": "<h2 class=\"section-title tc pr flex fl_center al_center fs__24 title_7 +la\">\n          \t<span class=\"mr__10 ml__10\">Mejores marcas de Cosmética Coreana</span>\n        </h2>\n\t\t<span class=\"dn tt_divider\">\n          \t<span></span>\n          \t<i class=\"dn clprfalse la la-star\"></i>\n          \t<span></span>\n        </span>",
+          "layout": "container",
+          "mg": "5px,,5px,",
+          "pd": "0px",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      }
+    },
+    "content_for_index": [
+      "1614804668db3c1425",
+      "custom_html_i3aja9",
+      "custom_html_MqWKk6",
+      "16130795483fe5abf4",
+      "1637175808bd77e5e0",
+      "160436773844018675",
+      "16043720426b87a70d",
+      "1599967562663",
+      "1599500294582",
+      "1599967950636",
+      "16049814829d8d9357",
+      "16371742810a01a964",
+      "banner2_V9WpPH",
+      "1599968188748",
+      "1606407724ad4ff501",
+      "16044109261f1ad2a1"
+    ],
+    "blocks": {
+      "uppromote-affiliate-referral-customer-referral-50437-64c32457-930d-4cb9-9641-e24c0d9cf1f4": {
+        "type": "shopify://apps/uppromote-affiliate-referral/blocks/customer-referral/64c32457-930d-4cb9-9641-e24c0d9cf1f4",
+        "disabled": true,
+        "settings": {}
+      },
+      "uppromote-affiliate-referral-message-bar-50437-64c32457-930d-4cb9-9641-e24c0d9cf1f4": {
+        "type": "shopify://apps/uppromote-affiliate-referral/blocks/message-bar/64c32457-930d-4cb9-9641-e24c0d9cf1f4",
+        "disabled": true,
+        "settings": {}
+      }
+    }
+  }
+}
