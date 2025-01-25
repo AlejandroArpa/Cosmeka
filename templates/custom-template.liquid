@@ -1,0 +1,23 @@
+{%  liquid 
+	assign collection = collections[section.settings.collection]
+%}
+
+{%- for product in collection.products -%}
+	{%- render 'product_card1',
+		product:product,
+		use_cdt:use_cdt,
+		txt_cd:txt_cd, 
+		col:col, 
+		col_tb:col_tb, 
+		col_mb:col_mb,
+		url_cat:url_cat,
+		sett_equal:sett_equal,
+		show_vendor:show_vendor,
+		price_format:price_format,
+		use_rating:use_rating,
+		inc_rating:inc_rating,
+		show_color:show_color,
+		show_cl_type:show_cl_type,
+		show_size:show_size 
+	-%}
+{%- endfor -%}
