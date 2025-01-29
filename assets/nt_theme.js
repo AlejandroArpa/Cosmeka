@@ -617,10 +617,12 @@ var nt_currency = (sp_nt_storage) ? localStorage.getItem('nt_currency') : null, 
                 var array1 = arr.slice(0, index);
                 $carousel.find(".nt_pr.is-selected").each(function (index) { 
                   array1.push( $(this).outerHeight(true) );
+                  
+                  
                 });
                 var setHeight = Math.max.apply(this,array1);
                 // var setHeight = Math.max(...array1);
-                $carousel.find('.flickity-viewport').css({ 'height': setHeight + "px" });
+                $carousel.find('.flickity-viewport').css({ 'height': 1000+"px" });
               }
             });
          },

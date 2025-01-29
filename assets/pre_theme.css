@@ -1692,7 +1692,7 @@ white-space: nowrap;
     overflow: hidden;
     position: relative;
     width: 100%;
-    height: 100%
+    height: 550px !important
 }
 
 .flickity-slider {
@@ -3024,7 +3024,7 @@ html.wf-fontawesome5free-n4-loading .fas:before {opacity: 0}
 	    height: 100%;
 	    position: relative;
 	    background-repeat: no-repeat;
-	    background-size: cover;      
+	    background-size: contain;      
 	}
 	.p-thumb.equal_nt .nt_bg_lz {height: auto}
 	.pr_lazy_img{background-position: center center} 

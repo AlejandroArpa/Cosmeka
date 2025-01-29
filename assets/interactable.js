@@ -73,7 +73,7 @@
          interval: 100,
          timeout: 100, 
          over:function(t){
-            //console.log('over ')
+            console.log('over ')
             swatches_js( $(this) );
          },
          out: function(){}

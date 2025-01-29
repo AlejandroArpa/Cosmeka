@@ -1378,6 +1378,7 @@ transition: all .2s;
     top: 50%; 
 }
 .nt_pr .product-image .hover_img {
+  background-color: #000000;
     -webkit-transition: opacity .5s ease,transform 2s cubic-bezier(0,0,.44,1.18);
     -webkit-transition: opacity .5s ease,-webkit-transform 2s cubic-bezier(0,0,.44,1.18);
     transition: opacity .5s ease,-webkit-transform 2s cubic-bezier(0,0,.44,1.18);
@@ -1398,6 +1399,15 @@ transition: all .2s;
 .row_pr_1.tc .swatch__list_js.lazyload, .row_pr_1.tc .swatch__list_js.lazyloading {
   background-position: center !important;
 }
+
+.nt_pr {
+  transition: box-shadow 0.3s ease-in-out; /* Suaviza la animación */
+}
+
+.nt_pr:hover {
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.4); /* Ajusta la sombra según el efecto deseado */
+}
+
 .dcp_cd_ip {opacity: 0;height: 0}
 /* .pr_lazy_img.main-img.lazyload, .pr_lazy_img.main-img.lazyloading {
     opacity: 0;
