@@ -12,14 +12,17 @@
   data-ratio="{{image.aspect_ratio}}"
   data-sizes="auto"
   {% endif %}>
-  <div class="pr z_100" style="width: 90%;">
+  <div class="pr z_100" style="width: 100%;">
     <div class="row" style="width:100%; justify-content:center">
       {%- for block in section.blocks -%}
         <div class="col-lg-{{col_lg}} col-md-{{col_md}} col-sm{{col_sm}} mb__50 order-lg-{{forloop.index}} order-{{block.settings.order}}  {%- unless forloop.last -%} has-border {%- endunless -%}" {{ block.shopify_attributes }}>
           {%- case block.type -%}
             {%- when 'logo' -%}
               {%- assign image = block.settings.image -%}
-              <aside id="block_{{block.id}}" class="widget widget_text widget_logo">
+              <aside
+                id="block_{{block.id}}"
+                class="widget widget_text widget_logo"
+                style="height: 100%;">
                 {%- if block.settings.title != blank -%}
                   <>
                     <span class="txt_title" style="letter-spacing: 1px; font-weight:{{title_wg}}">{{ block.settings.title }}</span>
@@ -36,7 +39,7 @@
                             class="w__100 mb__15 lazyload lz_op_ef"
                             src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20{{image.width}}%20{{image.height}}%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
                             data-src="{{ img_url }}"
-                            data-widths="[{{lg_w}}, {{lg_w | times:2}}]"
+                            data-widths="[{{lg_w}}, {{lg_w | times:4}}]"
                             data-sizes="auto"
                             alt="{{ image.alt | default: shop.name | escape}}"
                             style="max-width: {{ lg_w }}px; filter: invert(1);"></a>
@@ -57,7 +60,10 @@
                 </div>
               </aside>
             {%- when 'mail' -%}
-              <aside id="block_{{block.id}}" class="widget widget_text">
+              <aside
+                id="block_{{block.id}}"
+                class="widget widget_text"
+                style="height: 100%;">
                 {%- if block.settings.title != blank -%}
                   <{% if block.settings.typetitle %}{{block.settings.typetitle}}{% else %}h3{% endif %} class="widget-title fwsb flex al_center fl_between fs__16 mg__0 mb__30">
                     <span class="txt_title" style="letter-spacing: 1px; font-weight:{{ title_wg }}">{{ block.settings.title }}</span>
@@ -101,8 +107,11 @@
             {%- when 'collection' -%}
               {%- liquid
                 assign on_sale_txt = 'products.product.on_sale' | t
-                assign save_js = 'products.product.save_js' | t: saved_amount: 'saved_amount' -%}
-              <aside id="block_{{block.id}}" class="widget widget_product_list">
+                assign save_js = 'products.product.save_js' | t: saved_amount: 'saved_amount'-%}
+              <aside
+                id="block_{{block.id}}"
+                class="widget widget_product_list"
+                style="height: 100%;">
                 {%- if block.settings.title != blank -%}
                   <{% if block.settings.typetitle %}{{block.settings.typetitle}}{% else %}h3{% endif %} class="widget-title fwsb flex al_center fl_between fs__16 mg__0 mb__30">
                     <span class="txt_title" style="letter-spacing: 1px; font-weight:{{ title_wg }}">{{ block.settings.title }}</span>
@@ -125,7 +134,10 @@
               </aside>
             {%- when 'post' -%}
               {%- assign date = block.settings.date -%}
-              <aside id="block_{{block.id}}" class="widget widget_post_list">
+              <aside
+                id="block_{{block.id}}"
+                class="widget widget_post_list"
+                style="height: 100%;">
                 {%- if block.settings.title != blank -%}
                   <{% if block.settings.typetitle %}{{block.settings.typetitle}}{% else %}h3{% endif %} class="widget-title fwsb flex al_center fl_between fs__16 mg__0 mb__30">
                     <span class="txt_title" style="letter-spacing: 1px; font-weight:{{ title_wg }}">{{ block.settings.title }}</span>
@@ -146,7 +158,10 @@
               </aside>
             {%- when 'instagram' -%}
               {%- assign col = block.settings.col_pr -%}{%- assign col_tb = block.settings.col_pr_tb -%}{%- assign col_mb = block.settings.col_pr_mb -%}
-              <aside id="block_{{block.id}}" class="widget widget_instagram">
+              <aside
+                id="block_{{block.id}}"
+                class="widget widget_instagram"
+                style="height: 100%;">
                 {%- if block.settings.title != blank -%}
                   <{% if block.settings.typetitle %}{{block.settings.typetitle}}{% else %}h3{% endif %} class="widget-title fwsb flex al_center fl_between fs__16 mg__0 mb__30">
                     <span class="txt_title" style="letter-spacing: 1px; font-weight:{{ title_wg }}">{{ block.settings.title }}</span>
@@ -168,7 +183,10 @@
 
             {%- when 'instagram2' -%}
               {%- assign col = block.settings.col_pr -%}{%- assign col_tb = block.settings.col_pr_tb -%}{%- assign col_mb = block.settings.col_pr_mb -%}
-              <aside id="block_{{block.id}}" class="widget widget_instagram">
+              <aside
+                id="block_{{block.id}}"
+                class="widget widget_instagram"
+                style="height: 100%;">
                 {%- if block.settings.title != blank -%}
                   <{% if block.settings.typetitle %}{{block.settings.typetitle}}{% else %}h3{% endif %} class="widget-title fwsb flex al_center fl_between fs__16 mg__0 mb__30">
                     <span class="txt_title" style="letter-spacing: 1px; font-weight:{{ title_wg }}">{{ block.settings.title }}</span>
@@ -189,18 +207,25 @@
               </aside>
 
             {%- when 'text' -%}
-              <aside id="block_{{block.id}}" class="widget widget_text">
+              <aside
+                id="block_{{block.id}}"
+                class="widget widget_text"
+                style="height: 100%;">
                 {%- if block.settings.title != blank -%}
                   <{% if block.settings.typetitle %}{{block.settings.typetitle}}{% else %}h3{% endif %} class="widget-title fwsb flex al_center fl_between fs__16 mg__0 mb__30">
                     <span class="txt_title" style="letter-spacing: 1px; font-weight:{{ title_wg }}">{{ block.settings.title }}</span>
                     <span class="nav_link_icon ml__5"></span>
                   </{% if block.settings.typetitle %}{{block.settings.typetitle}}{% else %}h3{% endif %}>
                 {%- endif -%}
-                <div class="textwidget widget_footer">{{ block.settings.content }}</div>
+                <div class="textwidget widget_footer" style="height: 80%; display: flex; flex-direction: column;     justify-content: start;">
+                  {{ block.settings.content }}</div>
               </aside>
 
             {%- when 'html' -%}
-              <aside id="block_{{block.id}}" class="widget widget_text">
+              <aside
+                id="block_{{block.id}}"
+                class="widget widget_text"
+                style="height: 100%;">
                 {%- if block.settings.title != blank -%}
                   <{% if block.settings.typetitle %}{{block.settings.typetitle}}{% else %}h3{% endif %} class="widget-title fwsb flex al_center fl_between fs__16 mg__0 mb__30">
                     <span class="txt_title" style="letter-spacing: 1px; font-weight:{{ title_wg }}">{{ block.settings.title }}</span>
@@ -211,19 +236,22 @@
               </aside>
 
             {%- else -%}
-              <aside id="block_{{block.id}}" class="widget widget_nav_menu">
+              <aside
+                id="block_{{block.id}}"
+                class="widget widget_nav_menu"
+                style="height: 100%;">
                 {%- if block.settings.title != blank -%}
                   <{% if block.settings.typetitle %}{{block.settings.typetitle}}{% else %}h3{% endif %} class="widget-title fwsb flex al_center fl_between fs__16 mg__0 mb__30">
                     <span class="txt_title" style="letter-spacing: 1px; font-weight:{{ title_wg }}">{{ block.settings.title }}</span>
                     <span class="nav_link_icon ml__5"></span>
                   </{% if block.settings.typetitle %}{{block.settings.typetitle}}{% else %}h3{% endif %}>
                 {%- endif -%}
-                <div class="menu_footer widget_footer">
+                <div class="menu_footer widget_footer" style="height: 80%; display: flex; flex-direction: column;     justify-content: start;">
                   {%- assign menu = block.settings.menu -%}
                   {%- if menu != blank -%}
                     <ul class="menu">
                       {%- for link in linklists[menu].links -%}
-                        <li class="menu-item{% if link.active %} current-menu-item{% endif %}">
+                        <li class="menu-item{% if link.active %} current-menu-item{% endif %}" style="line-height: 24px;">
                           <a href="{{ link.url }}">{{ link.title | split: '[' | first }}</a>
                         </li>
                       {%- endfor -%}
